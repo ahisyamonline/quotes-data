@@ -1,0 +1,917 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-06T07:57:00+07:00",
+  "settings": {
+    "ads_enable": false,
+    "ads_open_unit": "ca-app-pub-3940256099942544/9257395921",
+    "ads_banner_unit": "ca-app-pub-3940256099942544/6300978111",
+    "ads_reward_unit": "ca-app-pub-3940256099942544/5224354917",
+    "initial_daily_quota": 5,
+    "reward_quota_amount": 10,
+    "privacy_policy_url": "https://mationetic.com/apps/privacy-policy",
+    "sync_endpoint": "https://script.google.com/macros/s/AKfycbwzJg9pABDHA9kHiOtCcdQaZr6ZQzZ1Fupg4hVAtsVnHXXDoM64lZAuk1PMMxpIg6h5xw/exec",
+    "app_title": "KataBaik"
+  },
+  "quotes": [
+    {
+      "id": "q_001",
+      "text": "Keberhasilan bukanlah milik orang pintar, melainkan milik mereka yang senantiasa berusaha dan tidak pernah menyerah.",
+      "author": "B.J. Habibie",
+      "category": "Inspirasi",
+      "mood": "Semangat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_002",
+      "text": "Bermimpilah setinggi langit. Jika engkau jatuh, engkau akan jatuh di antara bintang-bintang.",
+      "author": "Soekarno",
+      "category": "Mimpi",
+      "mood": "Optimis",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_003",
+      "text": "Ing ngarsa sung tulada, ing madya mangun karsa, tut wuri handayani.",
+      "author": "Ki Hajar Dewantara",
+      "category": "Pendidikan",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_004",
+      "text": "Kalian boleh maju dalam pelajaran, tapi kalau tidak bijaksana, kalian tidak akan menghasilkan apa-apa bagi sesama.",
+      "author": "Pramoedya Ananta Toer",
+      "category": "Kebijaksanaan",
+      "mood": "Reflektif",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_005",
+      "text": "Jangan takut gagal, karena mereka yang tidak pernah gagal hanyalah orang-orang yang tidak pernah melangkah.",
+      "author": "Buya Hamka",
+      "category": "Keberanian",
+      "mood": "Percaya Diri",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_006",
+      "text": "Habis gelap terbitlah terang. Teruslah berjuang walau rintangan menghadang.",
+      "author": "R.A. Kartini",
+      "category": "Perjuangan",
+      "mood": "Optimis",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_007",
+      "text": "Sabar itu tidak ada batasnya, kalau ada batasnya berarti bukan sabar.",
+      "author": "Abdurrahman Wahid (Gus Dur)",
+      "category": "Kesabaran",
+      "mood": "Tenang",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_008",
+      "text": "Kurang cerdas dapat diperbaiki dengan belajar, kurang cakap dapat dihilangkan dengan pengalaman, namun kejujuran tidak dapat digantikan.",
+      "author": "Mohammad Hatta",
+      "category": "Integritas",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_009",
+      "text": "Idealisme adalah kemewahan terakhir yang hanya dimiliki oleh pemuda.",
+      "author": "Tan Malaka",
+      "category": "Semangat Muda",
+      "mood": "Berani",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_010",
+      "text": "Aku mau hidup seribu tahun lagi.",
+      "author": "Chairil Anwar",
+      "category": "Tekad",
+      "mood": "Semangat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_011",
+      "text": "Tantangan bukan untuk dihindari, melainkan untuk dihadapi dengan kepala tegak.",
+      "author": "Najwa Shihab",
+      "category": "Keberanian",
+      "mood": "Kuat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_012",
+      "text": "Lepaskanlah apa yang tidak ditakdirkan untukmu, agar hatimu lapang menerima yang lebih baik.",
+      "author": "Tere Liye",
+      "category": "Keikhlasan",
+      "mood": "Tenang",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_013",
+      "text": "Jadilah mata air yang jernih, yang memberikan kehidupan kepada sekitarmu.",
+      "author": "B.J. Habibie",
+      "category": "Kebaikan",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_014",
+      "text": "Bangsa yang besar adalah bangsa yang menghormati jasa para pahlawannya.",
+      "author": "Soekarno",
+      "category": "Nasionalisme",
+      "mood": "Bangga",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_015",
+      "text": "Kecantikan yang abadi terletak pada keelokan adab dan ketinggian ilmu seseorang.",
+      "author": "Buya Hamka",
+      "category": "Karakter",
+      "mood": "Tenang",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_016",
+      "text": "Untuk mencapai sesuatu, harus diperjuangkan dulu. Seperti mengambil buah kelapa, dan tidak menunggu saja seperti jatuh durian yang telah masak.",
+      "author": "Mohammad Natsir",
+      "category": "Kerja Keras",
+      "mood": "Semangat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_017",
+      "text": "Perjuangan adalah pelaksanaan kata-kata.",
+      "author": "W.S. Rendra",
+      "category": "Aksi",
+      "mood": "Tegas",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_018",
+      "text": "Bermimpilah, karena Tuhan akan memeluk mimpi-mimpi itu.",
+      "author": "Andrea Hirata",
+      "category": "Harapan",
+      "mood": "Optimis",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_019",
+      "text": "Man jadda wajada, siapa yang bersungguh-sungguh pasti akan berhasil.",
+      "author": "Ahmad Fuadi",
+      "category": "Ketekunan",
+      "mood": "Semangat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_020",
+      "text": "Hidup yang tidak dipertaruhkan tidak akan pernah dimenangkan.",
+      "author": "Sutan Sjahrir",
+      "category": "Keberanian",
+      "mood": "Berani",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_021",
+      "text": "Lawan sastra ngesti mulya, dengan ilmu kita menuju kemuliaan.",
+      "author": "Ki Hajar Dewantara",
+      "category": "Pendidikan",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_022",
+      "text": "Kita tidak akan pernah kalah selama kita tidak menyerah pada keputusasaan.",
+      "author": "Cut Nyak Dien",
+      "category": "Ketabahan",
+      "mood": "Kuat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_023",
+      "text": "Selama banteng-banteng Indonesia masih mempunyai darah merah, kita tidak akan pernah mundur.",
+      "author": "Bung Tomo",
+      "category": "Patriotisme",
+      "mood": "Membara",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_024",
+      "text": "Berterimakasihlah pada segala yang memberi kehidupan, bahkan pada rasa sakit yang mendewasakan.",
+      "author": "Pramoedya Ananta Toer",
+      "category": "Rasa Syukur",
+      "mood": "Reflektif",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_025",
+      "text": "Masa depan yang cerah hanya bisa diraih dengan disiplin diri dan kerja keras tiada henti.",
+      "author": "B.J. Habibie",
+      "category": "Disiplin",
+      "mood": "Fokus",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_026",
+      "text": "Bermimpi besar, mulai dari yang kecil, dan bertindak sekarang juga.",
+      "author": "Merry Riana",
+      "category": "Tindakan",
+      "mood": "Semangat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_027",
+      "text": "Jangan takut terlihat konyol saat belajar hal baru, takutlah bila diam di tempat.",
+      "author": "Raditya Dika",
+      "category": "Pembelajaran",
+      "mood": "Terbuka",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_028",
+      "text": "Jangan menunggu waktu yang tepat, ciptakan kesempatan itu dengan tanganmu sendiri.",
+      "author": "Tri Rismaharini",
+      "category": "Inisiatif",
+      "mood": "Tangguh",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_029",
+      "text": "Pendidikan adalah senjata paling ampuh untuk membuka pintu kemandirian.",
+      "author": "Dian Sastrowardoyo",
+      "category": "Pendidikan",
+      "mood": "Percaya Diri",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_030",
+      "text": "Pekerjaan terbaik adalah hobi yang dibayar dan memberi manfaat bagi sesama.",
+      "author": "Ridwan Kamil",
+      "category": "Karir",
+      "mood": "Senang",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_031",
+      "text": "Tugas kita bukanlah untuk berhasil, tugas kita adalah untuk mencoba, karena di dalam mencoba itulah kita menemukan kesempatan.",
+      "author": "Buya Hamka",
+      "category": "Usaha",
+      "mood": "Optimis",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_032",
+      "text": "Lebih baik diasingkan daripada menyerah pada kemunafikan.",
+      "author": "Soe Hok Gie",
+      "category": "Prinsip",
+      "mood": "Teguh",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_033",
+      "text": "Yang fana adalah waktu. Kita abadi: memungut detik demi detik, merangkainya seperti kembang.",
+      "author": "Sapardi Djoko Damono",
+      "category": "Kehidupan",
+      "mood": "Reflektif",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_034",
+      "text": "Kerja keras, kerja cerdas, dan kerja ikhlas adalah kunci kemajuan kita bersama.",
+      "author": "Joko Widodo",
+      "category": "Etos Kerja",
+      "mood": "Semangat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_035",
+      "text": "Lokasi boleh di mana saja, tapi imajinasi dan prestasi harus menembus batas dunia.",
+      "author": "Anies Baswedan",
+      "category": "Visi",
+      "mood": "Percaya Diri",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_036",
+      "text": "Kalau bukan anak bangsa ini yang membangun bangsanya, siapa lagi? Jangan saudara mengharapkan orang lain.",
+      "author": "B.J. Habibie",
+      "category": "Tanggung Jawab",
+      "mood": "Tegas",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_037",
+      "text": "Tenggelamkan rasa malas dan keraguan, karena keberanian adalah modal utama melangkah.",
+      "author": "Susi Pudjiastuti",
+      "category": "Keberanian",
+      "mood": "Berani",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_038",
+      "text": "Integritas bukan sekadar ucapan, melainkan konsistensi antara kata dan perbuatan.",
+      "author": "Sri Mulyani",
+      "category": "Integritas",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_039",
+      "text": "Modal utama kesuksesan bukanlah uang, melainkan kemauan, kerja keras, dan jaringan.",
+      "author": "Chairul Tanjung",
+      "category": "Kewirausahaan",
+      "mood": "Optimis",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_040",
+      "text": "Setinggi apa pun pangkat yang Anda miliki, Anda tetap seorang pegawai. Sekecil apa pun usaha Anda, Anda adalah bosnya.",
+      "author": "Bob Sadino",
+      "category": "Wirausaha",
+      "mood": "Percaya Diri",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_041",
+      "text": "Urip iku urup, hidup itu hendaknya menyala dan memberi manfaat bagi sesama.",
+      "author": "Pepatah Jawa",
+      "category": "Filosofi",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_042",
+      "text": "Alam takambang jadi guru, belajarlah dari setiap peristiwa di sekitarmu.",
+      "author": "Pepatah Minang",
+      "category": "Pembelajaran",
+      "mood": "Reflektif",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_043",
+      "text": "Di mana bumi dipijak, di situ langit dijunjung.",
+      "author": "Pepatah Melayu",
+      "category": "Adaptasi",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_044",
+      "text": "Kegagalan hanyalah kesempatan untuk memulai lagi dengan lebih cerdas.",
+      "author": "Anonim",
+      "category": "Ketahanan",
+      "mood": "Optimis",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_045",
+      "text": "Disiplin adalah jembatan yang menghubungkan antara tujuan dan pencapaian.",
+      "author": "Anonim",
+      "category": "Disiplin",
+      "mood": "Fokus",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_046",
+      "text": "Di tengah setiap kesulitan selalu tersembunyi sebuah peluang emas.",
+      "author": "Albert Einstein (Terj.)",
+      "category": "Peluang",
+      "mood": "Optimis",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_047",
+      "text": "Tidak peduli seberapa lambat engkau berjalan, asalkan engkau tidak pernah berhenti.",
+      "author": "Confucius (Terj.)",
+      "category": "Konsistensi",
+      "mood": "Sabar",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_048",
+      "text": "Segala sesuatu tampak mustahil sampai hal tersebut selesai dilakukan.",
+      "author": "Nelson Mandela (Terj.)",
+      "category": "Tekad",
+      "mood": "Percaya Diri",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_049",
+      "text": "Satu-satunya cara untuk melakukan pekerjaan hebat adalah dengan mencintai apa yang Anda kerjakan.",
+      "author": "Steve Jobs (Terj.)",
+      "category": "Passion",
+      "mood": "Semangat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_050",
+      "text": "Semua impian kita dapat menjadi kenyataan jika kita memiliki keberanian untuk mengejarnya.",
+      "author": "Walt Disney (Terj.)",
+      "category": "Mimpi",
+      "mood": "Berani",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_051",
+      "text": "Kesuksesan bukanlah akhir, kegagalan bukan hal fatal: keberanian untuk terus melangkah adalah yang paling utama.",
+      "author": "Winston Churchill (Terj.)",
+      "category": "Ketekunan",
+      "mood": "Tangguh",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_052",
+      "text": "Perjalanan ribuan mil selalu dimulai dengan satu langkah pertama.",
+      "author": "Lao Tzu (Terj.)",
+      "category": "Memulai",
+      "mood": "Tenang",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_053",
+      "text": "Masa depan adalah milik mereka yang percaya pada keindahan impian mereka.",
+      "author": "Eleanor Roosevelt (Terj.)",
+      "category": "Harapan",
+      "mood": "Optimis",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_054",
+      "text": "Saya tidak gagal, saya hanya menemukan 10.000 cara yang belum berhasil.",
+      "author": "Thomas Edison (Terj.)",
+      "category": "Pantang Menyerah",
+      "mood": "Gigih",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_055",
+      "text": "Dua puluh tahun dari sekarang Anda akan lebih kecewa oleh hal-hal yang tidak Anda lakukan daripada yang Anda lakukan.",
+      "author": "Mark Twain (Terj.)",
+      "category": "Keberanian",
+      "mood": "Berani",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_056",
+      "text": "Hati yang bersih akan melahirkan pikiran yang jernih dan tindakan yang luhur.",
+      "author": "Buya Hamka",
+      "category": "Ketenangan",
+      "mood": "Tenang",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_057",
+      "text": "Membaca tanpa merenungkan ibarat makan tanpa mencerna.",
+      "author": "Mohammad Hatta",
+      "category": "Belajar",
+      "mood": "Reflektif",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_058",
+      "text": "Tiada awan di langit yang tetap selamanya. Tiada mungkin akan terus-menerus terang cuaca. Sehabis malam gelap gulita lahir kelopak fajar.",
+      "author": "R.A. Kartini",
+      "category": "Harapan",
+      "mood": "Tenang",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_059",
+      "text": "Tujuan pendidikan itu untuk mempertajam kecerdasan, memperkukuh kemauan serta memperhalus perasaan.",
+      "author": "Tan Malaka",
+      "category": "Pendidikan",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_060",
+      "text": "Seorang terpelajar harus sudah berbuat adil sejak dalam pikiran apalagi dalam perbuatan.",
+      "author": "Pramoedya Ananta Toer",
+      "category": "Keadilan",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_061",
+      "text": "Hanya mereka yang berani bersuara yang mampu menciptakan perubahan nyata.",
+      "author": "Najwa Shihab",
+      "category": "Perubahan",
+      "mood": "Berani",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_062",
+      "text": "Tanpa cinta, kecerdasan itu berbahaya. Dan tanpa kecerdasan, cinta itu tidak cukup.",
+      "author": "B.J. Habibie",
+      "category": "Kebijaksanaan",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_063",
+      "text": "Jangan pernah berputus asa, karena rahmat Tuhan selalu lebih luas dari segala masalahmu.",
+      "author": "Buya Hamka",
+      "category": "Keimanan",
+      "mood": "Tenang",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_064",
+      "text": "Beri aku 1.000 orang tua, niscaya akan kucabut Semeru dari akarnya. Beri aku 10 pemuda, niscaya akan kuguncangkan dunia.",
+      "author": "Soekarno",
+      "category": "Kepemimpinan",
+      "mood": "Membara",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_065",
+      "text": "Kadang kita harus menerima bahwa ada hal-hal yang hanya bisa disimpan di dalam hati, bukan untuk dimiliki.",
+      "author": "Tere Liye",
+      "category": "Keikhlasan",
+      "mood": "Reflektif",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_066",
+      "text": "Man shabara zhafira, siapa yang bersabar pasti akan beruntung dan memetik buah manis.",
+      "author": "Ahmad Fuadi",
+      "category": "Kesabaran",
+      "mood": "Sabar",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_067",
+      "text": "Keluarga adalah tempat pertama dan utama bagi seorang insan untuk belajar tentang budi pekerti.",
+      "author": "Ki Hajar Dewantara",
+      "category": "Nilai Hidup",
+      "mood": "Hangat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_068",
+      "text": "Gagal itu makanan sehari-hari. Itu biasa, yang penting bagaimana kita menyikapinya dan bangkit kembali.",
+      "author": "Chairul Tanjung",
+      "category": "Ketahanan",
+      "mood": "Semangat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_069",
+      "text": "Jangan bandingkan prosesmu dengan orang lain, setiap bunga mekar pada musim yang berbeda.",
+      "author": "Merry Riana",
+      "category": "Penerimaan Diri",
+      "mood": "Tenang",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_070",
+      "text": "Hidup ini dapat memberi arti jika kita mau berbagi kebaikan sekecil apa pun.",
+      "author": "Andrea Hirata",
+      "category": "Kepedulian",
+      "mood": "Hangat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_071",
+      "text": "Orang pintar belajar dari kesalahannya sendiri, tetapi orang bijak belajar dari kesalahan orang lain.",
+      "author": "Bob Sadino",
+      "category": "Pembelajaran",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_072",
+      "text": "Selama kita berniat baik dan bekerja dengan tulus, jalan keluar akan selalu terbuka lebar.",
+      "author": "Tri Rismaharini",
+      "category": "Ketulusan",
+      "mood": "Optimis",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_073",
+      "text": "Karyamu tidak harus disukai semua orang, yang penting karya itu jujur berasal dari hatimu.",
+      "author": "Raditya Dika",
+      "category": "Kreativitas",
+      "mood": "Percaya Diri",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_074",
+      "text": "Wanita yang berilmu akan melahirkan generasi yang beradab dan berdaya saing tinggi.",
+      "author": "Dian Sastrowardoyo",
+      "category": "Pemberdayaan",
+      "mood": "Inspiratif",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_075",
+      "text": "Kota yang hebat bukan hanya yang megah bangunannya, tapi yang warganya saling peduli dan bahagia.",
+      "author": "Ridwan Kamil",
+      "category": "Harmoni",
+      "mood": "Bahagia",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_076",
+      "text": "Jangan batasi mimpimu hanya karena orang lain meragukan kemampuanmu.",
+      "author": "Susi Pudjiastuti",
+      "category": "Keyakinan",
+      "mood": "Kuat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_077",
+      "text": "Jangan pernah takut mengambil keputusan sulit jika itu demi kebaikan masyarakat banyak.",
+      "author": "Joko Widodo",
+      "category": "Kepemimpinan",
+      "mood": "Tegas",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_078",
+      "text": "Kekuatan sejati sebuah bangsa ada pada kualitas sumber daya manusia dan karakternya.",
+      "author": "Sri Mulyani",
+      "category": "Kemajuan",
+      "mood": "Optimis",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_079",
+      "text": "Pemimpin yang baik bukan yang memperbanyak pengikut, melainkan yang melahirkan lebih banyak pemimpin baru.",
+      "author": "Anies Baswedan",
+      "category": "Kepemimpinan",
+      "mood": "Inspiratif",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_080",
+      "text": "Tuhan tidak perlu dibela, yang perlu dibela adalah mereka yang tertindas dan membutuhkan pertolongan.",
+      "author": "Abdurrahman Wahid (Gus Dur)",
+      "category": "Kemanusiaan",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_081",
+      "text": "Setiap hari baru membawa kekuatan dan pikiran baru untuk melangkah lebih maju.",
+      "author": "Anonim",
+      "category": "Semangat Pagi",
+      "mood": "Optimis",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_082",
+      "text": "Fokuslah pada kemajuan, sekecil apa pun itu, bukan pada kesempurnaan yang semu.",
+      "author": "Anonim",
+      "category": "Pertumbuhan",
+      "mood": "Tenang",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_083",
+      "text": "Kerja keras mengalahkan bakat ketika bakat tidak bekerja keras.",
+      "author": "Anonim",
+      "category": "Etos Kerja",
+      "mood": "Semangat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_084",
+      "text": "Waktu adalah aset yang paling berharga; pergunakanlah untuk hal-hal yang bernilai kekal.",
+      "author": "Anonim",
+      "category": "Manajemen Waktu",
+      "mood": "Reflektif",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_085",
+      "text": "Rasa syukur adalah kunci yang membuka pintu kelimpahan dalam hidup.",
+      "author": "Anonim",
+      "category": "Bersyukur",
+      "mood": "Bahagia",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_086",
+      "text": "Jangan biarkan hari kemarin menghabiskan terlalu banyak waktu di hari ini.",
+      "author": "Anonim",
+      "category": "Move On",
+      "mood": "Kuat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_087",
+      "text": "Ketakutan terbesar kita bukanlah kegagalan, melainkan berhasil dalam hal yang tidak penting.",
+      "author": "Anonim",
+      "category": "Arah Hidup",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_088",
+      "text": "Karakter sejati seseorang terlihat dari bagaimana ia memperlakukan orang yang tidak bisa memberinya keuntungan apa-apa.",
+      "author": "Anonim",
+      "category": "Akhlak",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_089",
+      "text": "Jangan menunggu motivasi datang untuk memulai; mulailah, maka motivasi akan mengikuti.",
+      "author": "Anonim",
+      "category": "Aksi",
+      "mood": "Semangat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_090",
+      "text": "Pikiran positif menghasilkan energi positif, yang pada akhirnya mendatangkan hasil-hasil positif.",
+      "author": "Anonim",
+      "category": "Pola Pikir",
+      "mood": "Positif",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_091",
+      "text": "Belajarlah saat orang lain tidur, bekerjalah saat orang lain bermalas-malasan, dan rayakan saat orang lain bermimpi.",
+      "author": "Anonim",
+      "category": "Ketekunan",
+      "mood": "Gigih",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_092",
+      "text": "Kunci dari ketenangan jiwa adalah berhenti mengkhawatirkan hal-hal yang berada di luar kendali kita.",
+      "author": "Anonim",
+      "category": "Kedamaian",
+      "mood": "Tenang",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_093",
+      "text": "Kebiasaan kecil yang dilakukan setiap hari akan menghasilkan perubahan raksasa di masa depan.",
+      "author": "Anonim",
+      "category": "Kebiasaan",
+      "mood": "Sabar",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_094",
+      "text": "Jadilah versi terbaik dari dirimu sendiri, bukan tiruan dari orang lain.",
+      "author": "Anonim",
+      "category": "Otentisitas",
+      "mood": "Percaya Diri",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_095",
+      "text": "Kegigihan adalah pembeda utama antara mereka yang bermimpi dengan mereka yang mewujudkannya.",
+      "author": "Anonim",
+      "category": "Kegigihan",
+      "mood": "Kuat",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_096",
+      "text": "Ilmu tanpa amal bagaikan pohon tanpa buah yang rindang tapi sia-sia.",
+      "author": "Anonim",
+      "category": "Pengamalan",
+      "mood": "Bijak",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_097",
+      "text": "Memaafkan bukan untuk melepaskan orang lain dari kesalahannya, melainkan untuk membebaskan hatimu sendiri.",
+      "author": "Anonim",
+      "category": "Pengampunan",
+      "mood": "Tenang",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_098",
+      "text": "Ketika satu pintu tertutup, pintu lain akan terbuka; jangan terpaku memandangi pintu yang telah tertutup.",
+      "author": "Anonim",
+      "category": "Harapan",
+      "mood": "Optimis",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_099",
+      "text": "Kesederhanaan hidup memberikan ruang lebih lapang bagi hati untuk merasakan kebahagiaan sejati.",
+      "author": "Anonim",
+      "category": "Kesederhanaan",
+      "mood": "Bahagia",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_100",
+      "text": "Tinggalkan jejak kebaikan di setiap tempat yang engkau lalui, agar dunia menjadi tempat yang lebih indah.",
+      "author": "Anonim",
+      "category": "Warisan Kebaikan",
+      "mood": "Inspiratif",
+      "image_url": null,
+      "url": null
+    }
+  ]
+}
