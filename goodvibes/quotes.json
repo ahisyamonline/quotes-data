@@ -1,0 +1,2366 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-28T23:23:13+07:00",
+  "settings": {
+    "ads_enable": false,
+    "ads_open_unit": "ca-app-pub-3940256099942544/9257395921",
+    "ads_banner_unit": "ca-app-pub-3940256099942544/6300978111",
+    "ads_reward_unit": "ca-app-pub-3940256099942544/5224354917",
+    "initial_daily_quota": 5,
+    "reward_quota_amount": 10,
+    "privacy_policy_url": "https://mationetic.com/apps/privacy-policy",
+    "sync_endpoint": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/quotes.json",
+    "app_title": "Good Vibes Quotes"
+  },
+  "quotes": [
+    {
+      "id": "q_001",
+      "text": "Education is the most powerful weapon which you can use to change the world.",
+      "author": "Nelson Mandela",
+      "category": "Learning",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/White_daisy_in_sunny_meadow_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_002",
+      "text": "Keep your face always toward the sunshine, and shadows will fall behind you.",
+      "author": "Walt Whitman",
+      "category": "Optimism",
+      "mood": "Positive",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_balloon_floating_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_003",
+      "text": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker",
+      "category": "Motivation",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_wildflowers_swaying_in_br%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_004",
+      "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "author": "Mother Teresa",
+      "category": "Kindness",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Geometric_abstract_portrait_back%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_005",
+      "text": "Happiness is not something ready made. It comes from your own actions.",
+      "author": "Dalai Lama",
+      "category": "Happiness",
+      "mood": "Peaceful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Tropical_leaf_shadow_on_wall_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_006",
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "category": "Hope",
+      "mood": "Encouraging",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Illustration_of_smiling_sunflower_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_007",
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "category": "Confidence",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_heart_on_blue_background_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_008",
+      "text": "Wherever you go, go with all your heart.",
+      "author": "Confucius",
+      "category": "Passion",
+      "mood": "Uplifting",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_wit%E2%80%A6_20260928231133_7.jpg",
+      "url": null
+    },
+    {
+      "id": "q_009",
+      "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "category": "Growth",
+      "mood": "Optimistic",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sunrise_over_calm_ocean_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_010",
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe",
+      "category": "Action",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_wit%E2%80%A6_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_011",
+      "text": "Joy is what happens to us when we allow ourselves to recognize how good things really are.",
+      "author": "Marianne Williamson",
+      "category": "Gratitude",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Hot_chocolate_on_wooden_table_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_012",
+      "text": "Every morning is a clean slate and a fresh opportunity to shine.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Colorful_hot_air_balloons_floating_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_013",
+      "text": "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
+      "author": "Yoko Ono",
+      "category": "Morning",
+      "mood": "Bright",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_wit%E2%80%A6_20260928231133_5.jpg",
+      "url": null
+    },
+    {
+      "id": "q_014",
+      "text": "With the new day comes new strength and new thoughts.",
+      "author": "Eleanor Roosevelt",
+      "category": "Renewal",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sunrise_at_serene_beach_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_015",
+      "text": "Today is a fresh canvas; paint it with your brightest colors.",
+      "author": "Unknown",
+      "category": "Creativity",
+      "mood": "Vibrant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sun_rising_over_misty_hills_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_016",
+      "text": "An early-morning walk is a blessing for the whole day.",
+      "author": "Henry David Thoreau",
+      "category": "Nature",
+      "mood": "Peaceful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Soap_bubbles_floating_in_garden_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_017",
+      "text": "Wake up with determination, go to bed with satisfaction.",
+      "author": "George Horace Lorimer",
+      "category": "Discipline",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_fluid_swirls_portrait_b%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_018",
+      "text": "Each morning brings new potential, but only if you choose to greet it with joy.",
+      "author": "Unknown",
+      "category": "Joy",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_smiley_face_graphic_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_019",
+      "text": "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love.",
+      "author": "Marcus Aurelius",
+      "category": "Gratitude",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Geometric_pastel_triangles_patte%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_020",
+      "text": "The breeze at dawn has secrets to tell you. Don't go back to sleep.",
+      "author": "Rumi",
+      "category": "Mindfulness",
+      "mood": "Awakened",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Continuous_line_drawing_of_face_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_021",
+      "text": "Morning is an important time of day, because how you spend your morning can often tell you what kind of day you are going to have.",
+      "author": "Lemony Snicket",
+      "category": "Mindfulness",
+      "mood": "Calm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Dewdrops_on_grass_blades_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_022",
+      "text": "Lose an hour in the morning, and you will spend all day looking for it.",
+      "author": "Richard Whately",
+      "category": "Action",
+      "mood": "Energized",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Geometric_portrait_background_sh%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_023",
+      "text": "Opportunities are like sunrises. If you wait too long, you miss them.",
+      "author": "William Arthur Ward",
+      "category": "Opportunity",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_portrait_wallpaper_sunset%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_024",
+      "text": "Every sunrise is a poem written on the earth with words of light, warmth, and love.",
+      "author": "Debasish Mridha",
+      "category": "Sunshine",
+      "mood": "Radiant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_gradient_portrait_wallp%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_025",
+      "text": "Every day is a fresh beginning. Every morning is the world made new.",
+      "author": "Sarah Chauncey Woolsey",
+      "category": "Renewal",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_wit%E2%80%A6_20260928231133_3.jpg",
+      "url": null
+    },
+    {
+      "id": "q_026",
+      "text": "Let today be the day you learn the grace of letting go and the power of starting anew.",
+      "author": "Steve Maraboli",
+      "category": "Growth",
+      "mood": "Uplifted",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Turquoise_ocean_waves_rippling_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_027",
+      "text": "The sun is a daily reminder that we too can rise again from the darkness.",
+      "author": "S. Ajna",
+      "category": "Hope",
+      "mood": "Hopeful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Rainbow_bokeh_lights_portrait_ba%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_028",
+      "text": "I arise in the morning torn between a desire to improve the world and a desire to enjoy the world.",
+      "author": "E.B. White",
+      "category": "Purpose",
+      "mood": "Thoughtful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Watercolor_portrait_wallpaper_wi%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_029",
+      "text": "The morning light brings clarity, casting away yesterday's shadows.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Clear",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Paper_cut-out_garden_portrait_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_030",
+      "text": "Open your eyes, take a deep breath, and embrace the boundless energy of the dawn.",
+      "author": "Unknown",
+      "category": "Vitality",
+      "mood": "Energized",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Vibrant_watercolor_portrait_wall%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_031",
+      "text": "Write it on your heart that every day is the best day in the year.",
+      "author": "Ralph Waldo Emerson",
+      "category": "Optimism",
+      "mood": "Positive",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Geometric_pastel_shapes_abstract%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_032",
+      "text": "The secret to a good morning is to watch the sunrise with an open heart.",
+      "author": "Anthony T. Hincks",
+      "category": "Peace",
+      "mood": "Peaceful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/White_daisy_in_meadow_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_033",
+      "text": "A fresh morning brings a calm heart and an ocean of brand-new possibilities.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Calm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Watercolor_portrait_wallpaper_de%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_034",
+      "text": "Every day a million miracles begin at sunrise.",
+      "author": "Eric Jerome Dickey",
+      "category": "Wonder",
+      "mood": "Uplifting",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Iridescent_waves_shimmering_in_p%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_035",
+      "text": "Greet the dawn with a grateful spirit and watch how gently the world unfolds.",
+      "author": "Unknown",
+      "category": "Gratitude",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Red_paper_heart_floating_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_036",
+      "text": "There was never a night or a problem that could defeat sunrise or hope.",
+      "author": "Bernard Williams",
+      "category": "Hope",
+      "mood": "Encouraging",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sunflower_petal_texture_in_sunlight_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_037",
+      "text": "Morning comes whether you set the alarm or not, so welcome it with a smile.",
+      "author": "Ursula K. Le Guin",
+      "category": "Morning",
+      "mood": "Cheerful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Croissant_and_honey_on_table_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_038",
+      "text": "Step outside into the morning air; breathe in freshness and breathe out hesitation.",
+      "author": "Unknown",
+      "category": "Vitality",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Minimalist_sun_rising_behind_mou%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_039",
+      "text": "The sun does not shine for a few trees and flowers, but for the wide world's joy.",
+      "author": "Henry Ward Beecher",
+      "category": "Joy",
+      "mood": "Radiant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_swirls_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_040",
+      "text": "Let your morning routine be an anchor of peace before the busy day unfolds.",
+      "author": "Unknown",
+      "category": "Mindfulness",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_colorful_paint_splashes%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_041",
+      "text": "A fresh start is not a new place, it is a new mindset greeting the sunrise.",
+      "author": "Unknown",
+      "category": "Renewal",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Dewdrops_sparkling_on_green_grass_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_042",
+      "text": "May your day begin with a spark of excitement and a cup of pure optimism.",
+      "author": "Unknown",
+      "category": "Optimism",
+      "mood": "Vibrant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Holographic_portrait_background_%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_043",
+      "text": "Nature gives to every time and season some beauties of its own; mornings are its finest.",
+      "author": "Charles Dickens",
+      "category": "Nature",
+      "mood": "Peaceful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_swirls_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_044",
+      "text": "Every new morning is an invitation to make your life of equal simplicity with Nature herself.",
+      "author": "Henry David Thoreau",
+      "category": "Simplicity",
+      "mood": "Calm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Mountain_landscape_at_dawn_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_045",
+      "text": "The sun has not caught me in bed in fifty years.",
+      "author": "Thomas Jefferson",
+      "category": "Action",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_rainbow_portrait_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_046",
+      "text": "Fresh dew on green grass reminds us that everything can start soft and pure.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Cup_of_tea_with_lemon_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_047",
+      "text": "Wake up, spread your wings, and fill the daylight with genuine warmth and kindness.",
+      "author": "Unknown",
+      "category": "Kindness",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_cloud_portrait_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_048",
+      "text": "A morning filled with positive thoughts is an unbroken foundation for success.",
+      "author": "Unknown",
+      "category": "Positivity",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pink_tulips_vector_illustration_%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_049",
+      "text": "Today's sunrise brought you the gift of twenty-four brand new, unblemished hours.",
+      "author": "Unknown",
+      "category": "Opportunity",
+      "mood": "Hopeful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Orange_and_lemon_slices_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_050",
+      "text": "The first hour of the morning is the rudder of the whole day.",
+      "author": "Henry Ward Beecher",
+      "category": "Focus",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_portrait_wallpaper_with_text_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_051",
+      "text": "Let the golden morning rays remind you of how brightly your own path can glow.",
+      "author": "Unknown",
+      "category": "Sunshine",
+      "mood": "Bright",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Orange_balloon_floating_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_052",
+      "text": "Rise above the clouds of worry; the morning sky is vast enough for all your hopes.",
+      "author": "Unknown",
+      "category": "Hope",
+      "mood": "Uplifted",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_heart_on_blue_background_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_053",
+      "text": "Each day comes bearing its own gifts. Untie the ribbon with eager hands.",
+      "author": "Ruth Ann Schabacker",
+      "category": "Gratitude",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Succulent_on_desk_in_sunlight_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_054",
+      "text": "Breathe in the cool morning air and let it awaken your highest ambitions.",
+      "author": "Unknown",
+      "category": "Vitality",
+      "mood": "Energized",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Watermelon_and_lime_fruit_illust%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_055",
+      "text": "Morning is nature's quiet reassurance that everything can start over.",
+      "author": "Unknown",
+      "category": "Renewal",
+      "mood": "Peaceful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Geometric_pastel_triangles_minim%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_056",
+      "text": "Your morning smile sets the tone for every room you enter today.",
+      "author": "Unknown",
+      "category": "Joy",
+      "mood": "Cheerful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_wit%E2%80%A6_20260928231133_6.jpg",
+      "url": null
+    },
+    {
+      "id": "q_057",
+      "text": "Every morning was a cheerful invitation to make my life of equal simplicity.",
+      "author": "Henry David Thoreau",
+      "category": "Mindfulness",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Vibrant_abstract_portrait_backgr%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_058",
+      "text": "Wake up excited about the possibilities of what you can learn and create today.",
+      "author": "Unknown",
+      "category": "Learning",
+      "mood": "Inspired",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sun_rising_behind_abstract_mount%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_059",
+      "text": "The sun is up, the world is awake, and your story has a brand-new page.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Bright",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_gradient_portrait_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_060",
+      "text": "Let the gentle morning breeze sweep away whatever was heavy yesterday.",
+      "author": "Unknown",
+      "category": "Peace",
+      "mood": "Calm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Rainbow_arching_across_blue_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_061",
+      "text": "A vibrant morning is the seed from which a magnificent day blooms.",
+      "author": "Unknown",
+      "category": "Growth",
+      "mood": "Vibrant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Tropical_leaf_shadow_on_wall_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_062",
+      "text": "The morning sun invites you to leave yesterday behind and welcome endless possibilities.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Uplifting",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Red_ladybug_on_grass_blade_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_063",
+      "text": "Breathe in the golden sunrise; exhale all the doubts holding you back.",
+      "author": "Unknown",
+      "category": "Mindfulness",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Birds_flying_over_misty_hills_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_064",
+      "text": "Every dawn is nature's gentle reminder that light always triumphs over darkness.",
+      "author": "Unknown",
+      "category": "Hope",
+      "mood": "Hopeful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Watermelon_on_beach_towel_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_065",
+      "text": "An early morning mindset shaped by gratitude turns ordinary moments into blessings.",
+      "author": "Unknown",
+      "category": "Gratitude",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Gold_foil_eagle_line_art_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_066",
+      "text": "Wake up with a clear purpose and let your actions radiate joy all day.",
+      "author": "Unknown",
+      "category": "Purpose",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Artistic_splatters_portrait_wall%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_067",
+      "text": "Morning whispers that new beginnings are not just possible, they are here right now.",
+      "author": "Unknown",
+      "category": "Renewal",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Colorful_beach_ball_on_sand_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_068",
+      "text": "The sweetness of dawn belongs to those who greet the sunrise with a peaceful mind.",
+      "author": "Unknown",
+      "category": "Peace",
+      "mood": "Calm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Colorful_geometric_shapes_backgr%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_069",
+      "text": "Start your morning by planting thoughts of kindness and watch your day flourish.",
+      "author": "Unknown",
+      "category": "Kindness",
+      "mood": "Bright",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Cup_of_tea_with_lavender_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_070",
+      "text": "A cup of coffee and a heart full of optimism make the finest morning recipe.",
+      "author": "Unknown",
+      "category": "Optimism",
+      "mood": "Positive",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Colorful_kites_flying_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_071",
+      "text": "Greet each sunrise as an invitation to write an inspiring chapter of your journey.",
+      "author": "Unknown",
+      "category": "Inspiration",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Iridescent_portrait_background_c%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_072",
+      "text": "The calm silence of daybreak is where inner clarity and strength are born.",
+      "author": "Unknown",
+      "category": "Mindfulness",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/White_birds_soaring_in_sky_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_073",
+      "text": "Dewdrops on morning petals whisper that growth happens quietly and beautifully.",
+      "author": "Unknown",
+      "category": "Nature",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_shapes_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_074",
+      "text": "Let the warmth of today's morning sun illuminate the greatness inside you.",
+      "author": "Unknown",
+      "category": "Confidence",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_iridescent_portrait_backg%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_075",
+      "text": "Rise up with enthusiasm; the universe has prepared fresh blessings for your day.",
+      "author": "Unknown",
+      "category": "Joy",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Gold_sun_and_wave_lines_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_076",
+      "text": "Every morning offers a blank page; pick up your courage and paint your dreams.",
+      "author": "Unknown",
+      "category": "Creativity",
+      "mood": "Vibrant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sunny_balcony_with_green_plant_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_077",
+      "text": "Morning tranquility is the secret soil where creativity and joy blossom.",
+      "author": "Unknown",
+      "category": "Peace",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Steaming_herbal_tea_with_lemon_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_078",
+      "text": "Choose positivity at dawn, and you will carry light into every room you enter.",
+      "author": "Unknown",
+      "category": "Positivity",
+      "mood": "Radiant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Monstera_leaf_shadow_on_wall_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_079",
+      "text": "The world wakes up renewed every single morning; give yourself the same permission.",
+      "author": "Unknown",
+      "category": "Renewal",
+      "mood": "Uplifting",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Bokeh_portrait_background_digita%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_080",
+      "text": "A single grateful thought at daybreak can alter the trajectory of your entire day.",
+      "author": "Unknown",
+      "category": "Gratitude",
+      "mood": "Peaceful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_dandelion_floating_in_field_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_081",
+      "text": "Welcome the morning breeze as a breath of fresh courage for whatever lies ahead.",
+      "author": "Unknown",
+      "category": "Courage",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Dewdrop_on_green_clover_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_082",
+      "text": "Sunrise is a daily love letter from the sky, encouraging you to keep shining.",
+      "author": "Unknown",
+      "category": "Sunshine",
+      "mood": "Bright",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_sunset_gradient_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_083",
+      "text": "Awaken your spirit with the dawn and embrace the abundance around you.",
+      "author": "Unknown",
+      "category": "Vitality",
+      "mood": "Energized",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Smiling_sun_on_blue_background_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_084",
+      "text": "Every morning is a masterpiece crafted for those ready to appreciate life.",
+      "author": "Unknown",
+      "category": "Wonder",
+      "mood": "Uplifted",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Turquoise_swimming_pool_surface_%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_085",
+      "text": "Let your first thought today be one of deep appreciation for being alive.",
+      "author": "Unknown",
+      "category": "Gratitude",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Dewdrops_on_green_grass_blades_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_086",
+      "text": "A gentle morning routine anchors the soul in serenity before the world gets busy.",
+      "author": "Unknown",
+      "category": "Mindfulness",
+      "mood": "Calm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Strawberry_fruit-themed_portrait%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_087",
+      "text": "Step into the daylight knowing that today holds fresh chances to make a difference.",
+      "author": "Unknown",
+      "category": "Opportunity",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pink_paper_plane_soaring_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_088",
+      "text": "Morning sunshine carries the power to dissolve even the heaviest of worries.",
+      "author": "Unknown",
+      "category": "Sunshine",
+      "mood": "Radiant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Blue_sky_with_white_cloud_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_089",
+      "text": "Rise early, think clearly, speak kindly, and let good vibes guide your path.",
+      "author": "Unknown",
+      "category": "Positivity",
+      "mood": "Bright",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Paper_cut-out_sun_and_clouds_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_090",
+      "text": "The horizon glows with hope each dawn, reminding you that your story isn't finished.",
+      "author": "Unknown",
+      "category": "Hope",
+      "mood": "Hopeful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Mug_on_windowsill_with_sunlight_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_091",
+      "text": "Greet this morning with open hands and an eager heart ready for joy.",
+      "author": "Unknown",
+      "category": "Joy",
+      "mood": "Cheerful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Fruit_bowl_on_breakfast_table_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_092",
+      "text": "Morning clarity washes away doubt and makes way for purposeful focus.",
+      "author": "Unknown",
+      "category": "Focus",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Green_apples_on_pink_background_20260928231134.jpg",
+      "url": null
+    },
+    {
+      "id": "q_093",
+      "text": "Every sunrise is a promise that you can begin anew, no matter where you were yesterday.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Clouds_at_sunset_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_094",
+      "text": "Let your morning energy be fueled by gratitude, passion, and genuine hope.",
+      "author": "Unknown",
+      "category": "Vitality",
+      "mood": "Energized",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_wit%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_095",
+      "text": "The fresh air of early dawn carries the fragrance of untouched possibilities.",
+      "author": "Unknown",
+      "category": "Opportunity",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_portrait_wallpaper_sunset%E2%80%A6_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_096",
+      "text": "A calm morning sets the stage for a resilient, peaceful afternoon.",
+      "author": "Unknown",
+      "category": "Peace",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Paper_cut-out_mountain_portrait_%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_097",
+      "text": "Start today with a peaceful soul, an eager mind, and radiant good vibes.",
+      "author": "Unknown",
+      "category": "Positivity",
+      "mood": "Vibrant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Geometric_portrait_background_wi%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_098",
+      "text": "Morning brings the quiet miracle of a clean slate and open skies.",
+      "author": "Unknown",
+      "category": "Renewal",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Turquoise_ocean_waves_rippling_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_099",
+      "text": "Cast your worries to the morning wind and welcome peace into your heart.",
+      "author": "Unknown",
+      "category": "Peace",
+      "mood": "Calm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Steaming_coffee_with_latte_art_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_100",
+      "text": "The first rays of sunlight are proof that warmth always follows the cold.",
+      "author": "Unknown",
+      "category": "Sunshine",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Floating_red_hearts_portrait_bac%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_101",
+      "text": "Wake up with intentional gratitude, and notice how miracles appear throughout your day.",
+      "author": "Unknown",
+      "category": "Gratitude",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Rainbow_bokeh_background_lights_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_102",
+      "text": "Mornings teach us that even the darkest night eventually surrenders to golden light.",
+      "author": "Unknown",
+      "category": "Hope",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_clouds_at_dawn_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_103",
+      "text": "Let your spirit rise with the morning sun, full of passion and ready to conquer.",
+      "author": "Unknown",
+      "category": "Motivation",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Paper_cut-out_portrait_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_104",
+      "text": "A fresh dawn reminds us that life is generous with second chances.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Optimistic",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Heart_shaped_clouds_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_105",
+      "text": "Smile at the rising sun; joy has a wonderful habit of multiplying when shared.",
+      "author": "Unknown",
+      "category": "Joy",
+      "mood": "Cheerful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sunlight_beaming_through_forest_%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_106",
+      "text": "Morning quiet is an invitation to listen to your inner wisdom and dreams.",
+      "author": "Unknown",
+      "category": "Mindfulness",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Fairy_lights_background_portrait_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_107",
+      "text": "Fill your morning cup with coffee, grace, and an abundance of kind intentions.",
+      "author": "Unknown",
+      "category": "Kindness",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Confetti_floating_on_white_backg%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_108",
+      "text": "Every sunrise provides a fresh canvas to create something meaningful and true.",
+      "author": "Unknown",
+      "category": "Creativity",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Golden_stars_on_lemon_background_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_109",
+      "text": "Step forward into the dawn with faith that good things are unfolding for you.",
+      "author": "Unknown",
+      "category": "Optimism",
+      "mood": "Positive",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Minimalist_line_art_portrait_bac%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_110",
+      "text": "The fresh morning atmosphere carries an undeniable sense of wonder and renewal.",
+      "author": "Unknown",
+      "category": "Wonder",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sunlight_streaming_through_paste%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_111",
+      "text": "Mornings are gentle nudges from destiny telling you that your dreams are waiting.",
+      "author": "Unknown",
+      "category": "Purpose",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Smiling_sun_and_rainbow_drawing_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_112",
+      "text": "Welcome this day with pure optimism, for today will never come around again.",
+      "author": "Unknown",
+      "category": "Optimism",
+      "mood": "Bright",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Butterflies_fluttering_in_meadow_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_113",
+      "text": "Let the coolness of the morning breeze calm every anxious thought within.",
+      "author": "Unknown",
+      "category": "Peace",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_wit%E2%80%A6_20260928231133_8.jpg",
+      "url": null
+    },
+    {
+      "id": "q_114",
+      "text": "Your morning mindset is the lens through which you experience the entire day.",
+      "author": "Unknown",
+      "category": "Mindfulness",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sunflowers_in_sunny_field_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_115",
+      "text": "Rejoice in the dawn; you are gifted with twenty-four golden hours of life.",
+      "author": "Unknown",
+      "category": "Gratitude",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_sunset_sky_clouds_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_116",
+      "text": "Morning sunshine reminds us that every shadow is just an illusion of perspective.",
+      "author": "Unknown",
+      "category": "Sunshine",
+      "mood": "Radiant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Mint_sprig_in_sparkling_water_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_117",
+      "text": "Awake with gratitude, move with grace, and breathe in the vibrant fresh air.",
+      "author": "Unknown",
+      "category": "Vitality",
+      "mood": "Energized",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Lemon_slices_on_green_background_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_118",
+      "text": "A brand-new morning brings brand-new strength to overcome any hurdle.",
+      "author": "Unknown",
+      "category": "Renewal",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Colorful_geometric_circles_on_white_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_119",
+      "text": "Let dawn ignite your courage to pursue what sets your soul on fire.",
+      "author": "Unknown",
+      "category": "Passion",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Mint_sprig_in_sparkling_water_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_120",
+      "text": "The tranquil dawn whispers that patience and gentle effort yield the sweetest fruit.",
+      "author": "Unknown",
+      "category": "Simplicity",
+      "mood": "Calm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Watercolor_portrait_with_floral_%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_121",
+      "text": "Greet the morning with a heart ready to give and eyes ready to see the good.",
+      "author": "Unknown",
+      "category": "Kindness",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Colorful_bokeh_portrait_background_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_122",
+      "text": "Every sunrise brings a quiet assurance that tomorrow can always be brighter.",
+      "author": "Unknown",
+      "category": "Hope",
+      "mood": "Hopeful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Single_continuous_line_drawing_bird_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_123",
+      "text": "Start each dawn by appreciating the simple miracle of drawing breath.",
+      "author": "Unknown",
+      "category": "Gratitude",
+      "mood": "Peaceful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Lemon_slices_mint_green_background_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_124",
+      "text": "The morning dew sparkles like diamonds, reminding us of nature's simple elegance.",
+      "author": "Unknown",
+      "category": "Nature",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Watering_can_near_blooming_flowers_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_125",
+      "text": "Awaken to the melody of birds and let their harmony set your rhythm for today.",
+      "author": "Unknown",
+      "category": "Nature",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Floating_sparkles_on_lemon_backg%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_126",
+      "text": "Cultivate good vibes in the morning and harvest happiness throughout your day.",
+      "author": "Unknown",
+      "category": "Positivity",
+      "mood": "Bright",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sunlight_on_city_street_buildings_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_127",
+      "text": "A morning infused with purpose turns routine tasks into joyful achievements.",
+      "author": "Unknown",
+      "category": "Purpose",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_tulip_in_sunny_garden_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_128",
+      "text": "Bathe in the soft light of dawn and allow peace to settle deep into your thoughts.",
+      "author": "Unknown",
+      "category": "Peace",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Cherry_blossoms_in_morning_sunlight_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_129",
+      "text": "Rise up and claim the blessings that this brand-new morning has brought for you.",
+      "author": "Unknown",
+      "category": "Opportunity",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sun_rising_over_mountain_hills_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_130",
+      "text": "Let today's sunrise melt away yesterday's fatigue and rekindle your passion.",
+      "author": "Unknown",
+      "category": "Renewal",
+      "mood": "Uplifting",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_wit%E2%80%A6_20260928231133_4.jpg",
+      "url": null
+    },
+    {
+      "id": "q_131",
+      "text": "When you start the morning smiling, you give permission for the world to smile back.",
+      "author": "Unknown",
+      "category": "Joy",
+      "mood": "Cheerful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_smiley_face_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_132",
+      "text": "Morning is the sweet prologue to an adventure waiting to unfold.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Vibrant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Clouds_at_sunrise_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_133",
+      "text": "Inhale the crisp morning air and remember that every moment is a chance to reset.",
+      "author": "Unknown",
+      "category": "Mindfulness",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Wildflowers_on_white_background_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_134",
+      "text": "Let your morning prayer or reflection be grounded in deep gratitude and peace.",
+      "author": "Unknown",
+      "category": "Gratitude",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_wallpaper_with%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_135",
+      "text": "Morning light illuminates the path forward; walk it with head held high.",
+      "author": "Unknown",
+      "category": "Confidence",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Orange_slice_floating_in_water_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_136",
+      "text": "A sunny morning is nature's way of inviting you out to play, explore, and thrive.",
+      "author": "Unknown",
+      "category": "Sunshine",
+      "mood": "Vibrant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sun_rays_through_clouds_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_137",
+      "text": "Begin the day with an open heart; great wonders happen to those who look for them.",
+      "author": "Unknown",
+      "category": "Wonder",
+      "mood": "Optimistic",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Orange_poppy_under_blue_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_138",
+      "text": "The calm of daybreak reminds us that silence is often where true power resides.",
+      "author": "Unknown",
+      "category": "Peace",
+      "mood": "Calm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Clouds_at_sunset_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_139",
+      "text": "Radiate kindness with the dawn and watch the world glow with warmth around you.",
+      "author": "Unknown",
+      "category": "Kindness",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Hummingbird_near_vibrant_flowers_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_140",
+      "text": "Mornings offer pure momentum; catch the wave early and ride it toward your dreams.",
+      "author": "Unknown",
+      "category": "Action",
+      "mood": "Energized",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sunlight_shining_on_white_wall_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_141",
+      "text": "Greet each fresh morning with the enthusiasm of a child seeing snow for the first time.",
+      "author": "Unknown",
+      "category": "Joy",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Watercolor_portrait_painting_wit%E2%80%A6_20260928231134.jpg",
+      "url": null
+    },
+    {
+      "id": "q_142",
+      "text": "The dawn breaks gently, teaching us that true strength is quiet, steady, and kind.",
+      "author": "Unknown",
+      "category": "Simplicity",
+      "mood": "Peaceful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_sun_illustration_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_143",
+      "text": "Renew your vision with the morning sun and step forward with fearless clarity.",
+      "author": "Unknown",
+      "category": "Focus",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Butterflies_fluttering_in_meadow_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_144",
+      "text": "Every morning is an unspoken promise that joy is always available to you.",
+      "author": "Unknown",
+      "category": "Hope",
+      "mood": "Hopeful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Mountain_landscape_with_rolling_%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_145",
+      "text": "Breathe deeply in the morning stillness and feel the boundless power of being present.",
+      "author": "Unknown",
+      "category": "Mindfulness",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Colorful_bokeh_portrait_background_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_146",
+      "text": "Let your good morning vibes be contagious enough to uplift everyone you meet.",
+      "author": "Unknown",
+      "category": "Positivity",
+      "mood": "Bright",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Orange_poppy_under_blue_sky_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_147",
+      "text": "Morning is a precious sanctuary where you can center your intentions for the day.",
+      "author": "Unknown",
+      "category": "Mindfulness",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pink_tulip_with_morning_dew_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_148",
+      "text": "Watch the dawn break and realize how blessed you are to experience another day.",
+      "author": "Unknown",
+      "category": "Gratitude",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_balloons_floating_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_149",
+      "text": "A fresh morning brings fresh perspective; look at your life through eyes of hope.",
+      "author": "Unknown",
+      "category": "Optimism",
+      "mood": "Uplifting",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Colorful_kite_flying_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_150",
+      "text": "The sky turns gold each morning to remind you of the rich potential within your reach.",
+      "author": "Unknown",
+      "category": "Opportunity",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Bicycle_parked_against_white_wall_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_151",
+      "text": "Rise like the sun; brighten your corner of the earth without hesitation or doubt.",
+      "author": "Unknown",
+      "category": "Confidence",
+      "mood": "Radiant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Cherry_blossom_branch_against_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_152",
+      "text": "May the fresh dew of morning cleanse your spirit of all lingering doubts.",
+      "author": "Unknown",
+      "category": "Renewal",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/White_birds_soaring_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_153",
+      "text": "Let today's first light fill your heart with serenity and unwavering peace.",
+      "author": "Unknown",
+      "category": "Peace",
+      "mood": "Calm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Red_strawberry_on_turquoise_back%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_154",
+      "text": "Morning whispers: take one small positive step forward, and miracles will follow.",
+      "author": "Unknown",
+      "category": "Action",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Mountains_at_sunrise_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_155",
+      "text": "The fresh morning atmosphere is filled with pure promise and limitless potential.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Vibrant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Colorful_balloons_floating_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_156",
+      "text": "Greet the morning sun with a grateful hum and watch how easily harmony returns.",
+      "author": "Unknown",
+      "category": "Joy",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Golden_stars_floating_on_lemon_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_157",
+      "text": "Each sunrise brings the sacred invitation to love more deeply and live more fully.",
+      "author": "Unknown",
+      "category": "Kindness",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_sunflowers_on_blue_backgr%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_158",
+      "text": "Start the morning by declaring peace over your mind and strength over your body.",
+      "author": "Unknown",
+      "category": "Vitality",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Vibrant_abstract_portrait_backgr%E2%80%A6_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_159",
+      "text": "The horizon unfolds like poetry in the dawn; step outside and read its beauty.",
+      "author": "Unknown",
+      "category": "Wonder",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Watercolor_portrait_with_floral_%E2%80%A6_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_160",
+      "text": "May your morning be peaceful, your coffee warm, and your heart filled with light.",
+      "author": "Unknown",
+      "category": "Positivity",
+      "mood": "Cheerful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_gradient_portrait_wallpap%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_161",
+      "text": "Embrace the freshness of today; a joyful life is built one magnificent morning at a time.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Radiant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Clouds_at_sunrise_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_162",
+      "text": "Each morning we are born again. What we do today is what matters most.",
+      "author": "Buddha",
+      "category": "Mindfulness",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pineapple_and_kiwi_portrait_wall%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_163",
+      "text": "Rise up, start fresh, see the bright opportunities in each new day.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Energized",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Geometric_portrait_background_de%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_164",
+      "text": "Every morning is a chance to be better than you were yesterday.",
+      "author": "Unknown",
+      "category": "Growth",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_art_portrait_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_165",
+      "text": "Success comes to those who get up early and work for it.",
+      "author": "Unknown",
+      "category": "Action",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Hot_air_balloons_rising_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_166",
+      "text": "Don't wait for opportunity. Create it this morning.",
+      "author": "Unknown",
+      "category": "Opportunity",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Golden_sparkles_on_peach_background_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_167",
+      "text": "Be stronger than your excuses with every sunrise.",
+      "author": "Unknown",
+      "category": "Discipline",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_balloons_floating_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_168",
+      "text": "Discipline is the bridge between goals and achievement.",
+      "author": "Jim Rohn",
+      "category": "Focus",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_wit%E2%80%A6_20260928231133_4.jpg",
+      "url": null
+    },
+    {
+      "id": "q_169",
+      "text": "Great things never come from comfort zones.",
+      "author": "Unknown",
+      "category": "Courage",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_smiley_face_graphic_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_170",
+      "text": "Your only limit is your mind; greet the dawn fearlessly.",
+      "author": "Unknown",
+      "category": "Confidence",
+      "mood": "Uplifted",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Croissant_and_honey_on_table_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_171",
+      "text": "Stay patient and trust your journey this morning.",
+      "author": "Unknown",
+      "category": "Peace",
+      "mood": "Calm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_dandelion_floating_in_field_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_172",
+      "text": "Today is the start of anything you want.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Vibrant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Orange_poppy_under_blue_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_173",
+      "text": "Let your smile change the world, but don't let the world change your smile.",
+      "author": "Unknown",
+      "category": "Joy",
+      "mood": "Cheerful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_tulip_in_sunny_garden_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_174",
+      "text": "Today is a new beginning. Take a deep breath and start again.",
+      "author": "Unknown",
+      "category": "Renewal",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Green_apples_on_pink_background_20260928231134.jpg",
+      "url": null
+    },
+    {
+      "id": "q_175",
+      "text": "May your coffee be strong and your thoughts be peaceful.",
+      "author": "Unknown",
+      "category": "Morning",
+      "mood": "Peaceful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Steaming_coffee_with_latte_art_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_176",
+      "text": "Some days you just have to create your own sunshine.",
+      "author": "Unknown",
+      "category": "Sunshine",
+      "mood": "Bright",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Clouds_at_sunset_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_177",
+      "text": "Inhale confidence, exhale doubt into the morning breeze.",
+      "author": "Unknown",
+      "category": "Mindfulness",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Geometric_pastel_triangles_minim%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_178",
+      "text": "Radiate positivity every morning and brighten every corner.",
+      "author": "Unknown",
+      "category": "Positivity",
+      "mood": "Radiant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Rainbow_bokeh_lights_portrait_ba%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_179",
+      "text": "A peaceful mind equals a powerful life.",
+      "author": "Unknown",
+      "category": "Peace",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Mountains_at_sunrise_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_180",
+      "text": "Happiness is not by chance, but by choice each morning.",
+      "author": "Jim Rohn",
+      "category": "Happiness",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_wallpaper_with%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_181",
+      "text": "Take it day by day and let gratitude lead the way.",
+      "author": "Unknown",
+      "category": "Gratitude",
+      "mood": "Calm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_iridescent_portrait_backg%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_182",
+      "text": "Nothing can dim the light that shines from within.",
+      "author": "Maya Angelou",
+      "category": "Confidence",
+      "mood": "Radiant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_clouds_at_dawn_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_183",
+      "text": "The morning is wise, it speaks to those who listen.",
+      "author": "Unknown",
+      "category": "Mindfulness",
+      "mood": "Thoughtful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Soap_bubbles_floating_in_garden_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_184",
+      "text": "Start your day with gratitude, and everything else falls into place.",
+      "author": "Unknown",
+      "category": "Gratitude",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Dewdrops_on_grass_blades_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_185",
+      "text": "A calm mind is the foundation of a strong, purposeful day.",
+      "author": "Unknown",
+      "category": "Focus",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_wit%E2%80%A6_20260928231133_8.jpg",
+      "url": null
+    },
+    {
+      "id": "q_186",
+      "text": "You are capable of amazing things when you greet the dawn with faith.",
+      "author": "Unknown",
+      "category": "Inspiration",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_portrait_wallpaper_sunset%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_187",
+      "text": "Start each day with a thankful heart and an eager smile.",
+      "author": "Unknown",
+      "category": "Gratitude",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_rainbow_portrait_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_188",
+      "text": "Your future is created by what you do today, not tomorrow.",
+      "author": "Robert Kiyosaki",
+      "category": "Action",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/White_birds_soaring_in_sky_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_189",
+      "text": "Believe in yourself, even when the morning sky is gray.",
+      "author": "Unknown",
+      "category": "Hope",
+      "mood": "Hopeful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_wildflowers_swaying_in_br%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_190",
+      "text": "A morning spent well is a step closer to your dreams.",
+      "author": "Unknown",
+      "category": "Purpose",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Iridescent_portrait_background_c%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_191",
+      "text": "The secret of getting ahead is getting started early.",
+      "author": "Mark Twain",
+      "category": "Action",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Butterflies_fluttering_in_meadow_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_192",
+      "text": "Success is the sum of small efforts repeated every morning.",
+      "author": "Robert Collier",
+      "category": "Discipline",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/White_birds_soaring_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_193",
+      "text": "You don't have to be perfect, just consistent in your light.",
+      "author": "Unknown",
+      "category": "Growth",
+      "mood": "Encouraging",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Blue_sky_with_white_cloud_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_194",
+      "text": "Dream big, work hard, and stay focused on what matters today.",
+      "author": "Unknown",
+      "category": "Focus",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Fairy_lights_background_portrait_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_195",
+      "text": "Giving thanks every morning is a pure celebration of being alive.",
+      "author": "Unknown",
+      "category": "Gratitude",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Clouds_at_sunrise_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_196",
+      "text": "Faith is the bird that feels the light when the dawn is still dark.",
+      "author": "Rabindranath Tagore",
+      "category": "Faith",
+      "mood": "Hopeful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_wit%E2%80%A6_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_197",
+      "text": "Blessed are those who see beautiful things in humble places.",
+      "author": "Camille Pissarro",
+      "category": "Wonder",
+      "mood": "Peaceful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Colorful_kite_flying_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_198",
+      "text": "You are exactly where you are meant to be this fine morning.",
+      "author": "Unknown",
+      "category": "Peace",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_cloud_portrait_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_199",
+      "text": "When you rise in the morning, give thanks for the morning light.",
+      "author": "Tecumseh",
+      "category": "Gratitude",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Gold_foil_eagle_line_art_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_200",
+      "text": "Let your faith be bigger than your fear today.",
+      "author": "Unknown",
+      "category": "Courage",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_sunset_sky_clouds_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_201",
+      "text": "The sun is up, the sky is blue, today is beautiful and so are you.",
+      "author": "John Lennon",
+      "category": "Sunshine",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Paper_cut-out_mountain_portrait_%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_202",
+      "text": "Sending good vibes to start your day with an open smile.",
+      "author": "Unknown",
+      "category": "Positivity",
+      "mood": "Cheerful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Paper_cut-out_sun_and_clouds_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_203",
+      "text": "Have a peaceful, productive, and positive morning journey.",
+      "author": "Unknown",
+      "category": "Positivity",
+      "mood": "Peaceful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Paper_cut-out_garden_portrait_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_204",
+      "text": "Start your day with kindness, courage, and clear intention.",
+      "author": "Unknown",
+      "category": "Kindness",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_swirls_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_205",
+      "text": "Be the reason someone smiles when they wake up today.",
+      "author": "Unknown",
+      "category": "Kindness",
+      "mood": "Bright",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Geometric_portrait_background_de%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_206",
+      "text": "You are stronger than you think; embrace the daylight boldly.",
+      "author": "Unknown",
+      "category": "Confidence",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Dewdrop_on_green_clover_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_207",
+      "text": "Smiles are contagious; spread one across the room this morning.",
+      "author": "Unknown",
+      "category": "Joy",
+      "mood": "Cheerful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Continuous_line_drawing_of_face_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_208",
+      "text": "One positive thought in the morning can change your whole day.",
+      "author": "Dalai Lama",
+      "category": "Positivity",
+      "mood": "Uplifting",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Succulent_on_desk_in_sunlight_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_209",
+      "text": "Happiness is homemade; brew a warm cup of joy today.",
+      "author": "Unknown",
+      "category": "Happiness",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Golden_stars_on_lemon_background_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_210",
+      "text": "Shine bright today — the world truly needs your light.",
+      "author": "Unknown",
+      "category": "Inspiration",
+      "mood": "Radiant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Heart_shaped_clouds_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_211",
+      "text": "Live less out of habit and more out of pure morning intent.",
+      "author": "Unknown",
+      "category": "Mindfulness",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_heart_on_blue_background_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_212",
+      "text": "The sun is new each day, inviting you to renew your mind.",
+      "author": "Heraclitus",
+      "category": "Renewal",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Iridescent_waves_shimmering_in_p%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_213",
+      "text": "Adopt the pace of nature; her secret is patience.",
+      "author": "Ralph Waldo Emerson",
+      "category": "Nature",
+      "mood": "Peaceful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Red_ladybug_on_grass_blade_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_214",
+      "text": "Colors are the smiles of nature upon the morning earth.",
+      "author": "Leigh Hunt",
+      "category": "Nature",
+      "mood": "Vibrant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sun_rising_behind_abstract_mount%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_215",
+      "text": "By discovering nature at dawn, you discover yourself.",
+      "author": "Maxime Lagace",
+      "category": "Nature",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sun_rising_over_misty_hills_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_216",
+      "text": "Every flower is a soul blossoming in nature's early light.",
+      "author": "Gerard de Nerval",
+      "category": "Wonder",
+      "mood": "Uplifting",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Watermelon_and_lime_fruit_illust%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_217",
+      "text": "Go where you feel most alive as the sunrise unfolds.",
+      "author": "Unknown",
+      "category": "Vitality",
+      "mood": "Energized",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Cup_of_tea_with_lemon_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_218",
+      "text": "Nature does not hurry, yet everything is accomplished.",
+      "author": "Lao Tzu",
+      "category": "Simplicity",
+      "mood": "Calm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Vibrant_watercolor_portrait_wall%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_219",
+      "text": "Be pleasant until ten o'clock, and the day will take care of itself.",
+      "author": "Elbert Hubbard",
+      "category": "Joy",
+      "mood": "Cheerful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_art_portrait_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_220",
+      "text": "The reward of a thing well done is to have done it today.",
+      "author": "Ralph Waldo Emerson",
+      "category": "Purpose",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_wit%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_221",
+      "text": "Well done is better than well said. Take action with the dawn.",
+      "author": "Benjamin Franklin",
+      "category": "Action",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Red_strawberry_on_turquoise_back%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_222",
+      "text": "The best preparation for good work tomorrow is good work today.",
+      "author": "Elbert Hubbard",
+      "category": "Focus",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Hummingbird_near_vibrant_flowers_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_223",
+      "text": "Let us be grateful to the people who make our mornings bloom.",
+      "author": "Marcel Proust",
+      "category": "Gratitude",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Colorful_bokeh_portrait_background_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_224",
+      "text": "Far and away the best prize life offers is the chance to work hard at work worth doing.",
+      "author": "Theodore Roosevelt",
+      "category": "Purpose",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pineapple_and_kiwi_portrait_wall%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_225",
+      "text": "Balance is derived from harmony within your early routine.",
+      "author": "Unknown",
+      "category": "Mindfulness",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Gold_sun_and_wave_lines_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_226",
+      "text": "Gratitude is the memory of the heart in the early quiet.",
+      "author": "Jean-Baptiste Massillon",
+      "category": "Gratitude",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Rainbow_arching_across_blue_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_227",
+      "text": "Gratitude unlocks the fullness of life before the day begins.",
+      "author": "Melody Beattie",
+      "category": "Gratitude",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Watercolor_portrait_wallpaper_de%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_228",
+      "text": "Even the greatest was once a beginner greeting their first dawn.",
+      "author": "Muhammad Ali",
+      "category": "Growth",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Paper_cut-out_portrait_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_229",
+      "text": "Make each day your masterpiece, starting from your first breath.",
+      "author": "John Wooden",
+      "category": "Creativity",
+      "mood": "Vibrant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sunlight_beaming_through_forest_%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_230",
+      "text": "You don't have to see the whole staircase, just take the first step.",
+      "author": "Martin Luther King Jr.",
+      "category": "Courage",
+      "mood": "Hopeful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Vibrant_abstract_portrait_backgr%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_231",
+      "text": "Every new day is an untouched opportunity to start something amazing.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Vibrant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_sunset_gradient_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_232",
+      "text": "Life is about making an impact, not making an income.",
+      "author": "Kevin Kruse",
+      "category": "Purpose",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Turquoise_swimming_pool_surface_%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_233",
+      "text": "Whatever the mind can conceive and believe, it can achieve.",
+      "author": "Napoleon Hill",
+      "category": "Confidence",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_smiley_face_wallpaper_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_234",
+      "text": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein",
+      "category": "Purpose",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Yellow_balloon_floating_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_235",
+      "text": "The decision to act is the most difficult thing; the rest is tenacity.",
+      "author": "Amelia Earhart",
+      "category": "Action",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Cherry_blossoms_in_morning_sunlight_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_236",
+      "text": "Definiteness of purpose is the starting point of all achievement.",
+      "author": "W. Clement Stone",
+      "category": "Focus",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sunflower_petal_texture_in_sunlight_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_237",
+      "text": "We become what we think about all morning long.",
+      "author": "Earl Nightingale",
+      "category": "Mindfulness",
+      "mood": "Centered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Clouds_at_sunset_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_238",
+      "text": "Life is 10% what happens to me and 90% how I react to it.",
+      "author": "Charles R. Swindoll",
+      "category": "Optimism",
+      "mood": "Positive",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_wit%E2%80%A6_20260928231133_6.jpg",
+      "url": null
+    },
+    {
+      "id": "q_239",
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "category": "Mindfulness",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Butterflies_fluttering_in_meadow_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_240",
+      "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "author": "Chinese Proverb",
+      "category": "Action",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Confetti_floating_on_white_backg%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_241",
+      "text": "Eighty percent of success is showing up with a cheerful heart.",
+      "author": "Woody Allen",
+      "category": "Action",
+      "mood": "Cheerful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Colorful_kites_flying_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_242",
+      "text": "Your time is limited, so don't waste it living someone else's life.",
+      "author": "Steve Jobs",
+      "category": "Purpose",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Orange_balloon_floating_in_sky_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_243",
+      "text": "I am not a product of my circumstances; I am a product of my decisions.",
+      "author": "Stephen Covey",
+      "category": "Confidence",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Colorful_beach_ball_on_sand_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_244",
+      "text": "Either you run the day, or the day runs you.",
+      "author": "Jim Rohn",
+      "category": "Discipline",
+      "mood": "Motivated",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pastel_gradient_portrait_wallpap%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_245",
+      "text": "Whether you think you can or think you can't, you're right.",
+      "author": "Henry Ford",
+      "category": "Confidence",
+      "mood": "Inspiring",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Strawberry_fruit-themed_portrait%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_246",
+      "text": "Whatever you can do or dream you can, begin it boldly.",
+      "author": "Johann Wolfgang von Goethe",
+      "category": "Courage",
+      "mood": "Vibrant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Lemon_slices_on_green_background_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_247",
+      "text": "Life shrinks or expands in proportion to one's courage.",
+      "author": "Anais Nin",
+      "category": "Courage",
+      "mood": "Empowered",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sunlight_streaming_through_paste%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_248",
+      "text": "The happiest people make the best of everything they have.",
+      "author": "Unknown",
+      "category": "Gratitude",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Mountain_landscape_at_dawn_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_249",
+      "text": "Exist to be happy, not to impress anyone this morning.",
+      "author": "Unknown",
+      "category": "Happiness",
+      "mood": "Peaceful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sunny_balcony_with_green_plant_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_250",
+      "text": "You can't have a rainbow without a little rain.",
+      "author": "Zion Lee",
+      "category": "Hope",
+      "mood": "Optimistic",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Smiling_sun_on_blue_background_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_251",
+      "text": "The happiness of your life depends on the quality of your thoughts.",
+      "author": "Marcus Aurelius",
+      "category": "Mindfulness",
+      "mood": "Serene",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Mountain_landscape_with_rolling_%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_252",
+      "text": "Every dawn delivers twenty-four unwritten hours for your dreams.",
+      "author": "Unknown",
+      "category": "Opportunity",
+      "mood": "Bright",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Watercolor_portrait_with_floral_%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_253",
+      "text": "Awaken with enthusiasm; the universe offers brand new blessings today.",
+      "author": "Unknown",
+      "category": "Vitality",
+      "mood": "Joyful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Pink_tulips_vector_illustration_%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_254",
+      "text": "Quiet morning reflection brings boundless strength for whatever comes.",
+      "author": "Unknown",
+      "category": "Peace",
+      "mood": "Calm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Watering_can_near_blooming_flowers_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_255",
+      "text": "Let the sweet sunlight ignite pure warmth and joy in your heart.",
+      "author": "Unknown",
+      "category": "Sunshine",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Tropical_leaf_shadow_on_wall_20260928231133_2.jpg",
+      "url": null
+    },
+    {
+      "id": "q_256",
+      "text": "A fresh day is a blank canvas awaiting your courage and creativity.",
+      "author": "Unknown",
+      "category": "Creativity",
+      "mood": "Vibrant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Colorful_geometric_shapes_backgr%E2%80%A6_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_257",
+      "text": "Walk into the daylight knowing that small acts of kindness ripple far.",
+      "author": "Unknown",
+      "category": "Kindness",
+      "mood": "Warm",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Sun_rising_over_mountain_hills_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_258",
+      "text": "The sunrise whispers: let go of the past and step into the present light.",
+      "author": "Unknown",
+      "category": "Renewal",
+      "mood": "Refreshing",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Smiling_sun_and_rainbow_drawing_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_259",
+      "text": "Greet every soul you encounter with unshakeable optimism and warmth.",
+      "author": "Unknown",
+      "category": "Positivity",
+      "mood": "Bright",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Dewdrops_sparkling_on_green_grass_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_260",
+      "text": "Fill your morning with laughter, gratitude, and purposeful action.",
+      "author": "Unknown",
+      "category": "Joy",
+      "mood": "Cheerful",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Turquoise_ocean_waves_rippling_20260928231133.jpg",
+      "url": null
+    },
+    {
+      "id": "q_261",
+      "text": "May your morning be filled with clarity, pure energy, and good vibes.",
+      "author": "Unknown",
+      "category": "Fresh Start",
+      "mood": "Radiant",
+      "image_url": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/goodvibes/images/Abstract_portrait_background_wit%E2%80%A6_20260928231133_3.jpg",
+      "url": null
+    }
+  ]
+}
