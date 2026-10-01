@@ -1,0 +1,4427 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-01T11:27:56+07:00",
+  "settings": {
+    "ads_enable": false,
+    "ads_open_unit": "ca-app-pub-3940256099942544/9257395921",
+    "ads_banner_unit": "ca-app-pub-3940256099942544/6300978111",
+    "ads_reward_unit": "ca-app-pub-3940256099942544/5224354917",
+    "initial_daily_quota": 5,
+    "reward_quota_amount": 10,
+    "privacy_policy_url": "https://mationetic.com/apps/privacy-policy",
+    "sync_endpoint": "https://cdn.jsdelivr.net/gh/ahisyamonline/quotes-data@main/jokesbapak2/quotes.json",
+    "app_title": "Good Vibes Quotes"
+  },
+  "quotes": [
+    {
+      "id": "q_001",
+      "question": "Kenapa air laut asin?",
+      "answer": "Karena ikannya keringetan dikejar nelayan",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_002",
+      "question": "Kucing apa yang paling kuno?",
+      "answer": "Kucinggalan zaman",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_003",
+      "question": "Hewan apa yang bersaudara?",
+      "answer": "Katak beradik",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_004",
+      "question": "Kenapa matahari tenggelam?",
+      "answer": "Karena tidak bisa berenang",
+      "category": "Humor",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_005",
+      "question": "Ban apa yang paling berat di dunia?",
+      "answer": "Bantuin dorong truk mogok",
+      "category": "Pelesetan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_006",
+      "question": "Hantu apa yang pintar berhitung?",
+      "answer": "Kuntilanak, ketawa hi-hi-hi sambil ngitung",
+      "category": "Tebak-tebakan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_007",
+      "question": "Roti apa yang bisa terbang?",
+      "answer": "Roti canai naik pesawat",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_008",
+      "question": "Kota apa yang isinya bapak-bapak semua?",
+      "answer": "Purwodaddy",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_009",
+      "question": "Burung apa yang hobi nolak?",
+      "answer": "Burung gak-gak (gagak)",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_010",
+      "question": "Kenapa pohon kelapa di depan rumah harus ditebang?",
+      "answer": "Soalnya kalau dicabut berat",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_011",
+      "question": "Gajah terbang dengan apa?",
+      "answer": "Dengan susah payah",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_012",
+      "question": "Hewan apa yang paling hening?",
+      "answer": "Semute",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_013",
+      "question": "Sayur apa yang jago nyanyi?",
+      "answer": "Kol-play",
+      "category": "Pelesetan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_014",
+      "question": "Pintu apa yang didorong sepuluh orang gak bakal terbuka?",
+      "answer": "Pintu yang tulisannya 'TARIK'",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_015",
+      "question": "Benda apa yang kalau dibalik jadi rusak?",
+      "answer": "Kasur (kalau dibalik dibaca rusak)",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_016",
+      "question": "Kuda apa yang jalannya mundur?",
+      "answer": "Kuda yang lagi parkir",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_017",
+      "question": "Ikan apa yang matanya banyak banget?",
+      "answer": "Ikan teri satu kilo",
+      "category": "Tebak-tebakan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_018",
+      "question": "Gendang apa yang gak boleh dipukul?",
+      "answer": "Gendang telinga",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_019",
+      "question": "Buah apa yang paling sopan?",
+      "answer": "Mangga (mangga = silakan)",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_020",
+      "question": "Kenapa pengendara motor harus pakai helm?",
+      "answer": "Karena helm gak bisa jalan sendiri",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_021",
+      "question": "Cuci apa yang nggak pernah pakai sabun?",
+      "answer": "Cuci mata",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_022",
+      "question": "Kunci apa yang sering bikin orang joget?",
+      "answer": "Kunci-kunci hembusan angin (Kunci nada)",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_023",
+      "question": "Hewan apa yang paling banyak nyimpen rahasia?",
+      "answer": "Ikan, soalnya selalu tutup mulut di air",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_024",
+      "question": "Daun apa yang gak pernah gugur?",
+      "answer": "Daun telinga",
+      "category": "Tebak-tebakan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_025",
+      "question": "Lemari apa yang bisa masuk ke dalam kantong?",
+      "answer": "Lemaribuan (Lima ribuan)",
+      "category": "Pelesetan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_026",
+      "question": "Kenapa dokter kalau mau operasi mulutnya ditutup masker?",
+      "answer": "Kalau matanya yang ditutup gak kelihatan",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_027",
+      "question": "Makanan apa yang bunyinya 'dor' pas mateng?",
+      "answer": "Popcorn kena petasan",
+      "category": "Humor",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_028",
+      "question": "Kera apa yang paling bikin sakit hati?",
+      "answer": "Keracunan janji manis",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_029",
+      "question": "Ban apa yang isinya udara dingin?",
+      "answer": "Bandung di pagi hari",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_030",
+      "question": "Kenapa anak kucing suka ngeong?",
+      "answer": "Soalnya kalau bilang 'permisi pak', nanti dikira sales",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_031",
+      "question": "Truk apa yang bisa terbang tinggi?",
+      "answer": "Truk-tur kapal luar angkasa",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_032",
+      "question": "Belut apa yang paling berbahaya di jalan raya?",
+      "answer": "Belut-ak belut-uk suara knalpot racing",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_033",
+      "question": "Hewan apa yang selalu taat peraturan lalu lintas?",
+      "answer": "Unta, karena selalu untamakan keselamatan",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_034",
+      "question": "Bunga apa yang paling disukai bapak-bapak pas tanggal tua?",
+      "answer": "Bunga deposito cair",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_035",
+      "question": "Sapu apa yang selalu menempel di kepala?",
+      "answer": "Saputangan bapak-bapak",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_036",
+      "question": "Kenapa bumi makin hari makin panas?",
+      "answer": "Karena mataharinya buka cabang",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_037",
+      "question": "Bola apa yang mirip kucing garong?",
+      "answer": "Bola-bola bekel kelaparan",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_038",
+      "question": "Jam apa yang sering bikin kaget?",
+      "answer": "Jambret dompet",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_039",
+      "question": "Sapi apa yang larinya paling kencang?",
+      "answer": "Sapida motor balap",
+      "category": "Pelesetan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_040",
+      "question": "Kopi apa yang paling lambat disajikan?",
+      "answer": "Kopi-lih sendiri di kebun",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_041",
+      "question": "Kenapa zombie kalau nyerang bareng-bareng?",
+      "answer": "Kalau sendirian namanya mau curhat",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_042",
+      "question": "Kota apa yang warganya selalu sabar?",
+      "answer": "Cikarang (nanti ci-besok aja)",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_043",
+      "question": "Hewan apa yang gak pernah salah sangka?",
+      "answer": "Buaya, selalu jujur kalau lagi modus",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_044",
+      "question": "Minuman apa yang bisa bikin rileks dan santai?",
+      "answer": "Teh-nangkan pikiranmu",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_045",
+      "question": "Penyanyi luar negeri yang hobi naik becak?",
+      "answer": "Becak-ham (Beckham)",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_046",
+      "question": "Kenapa komputer suka kedinginan?",
+      "answer": "Karena dipasangi banyak Windows",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_047",
+      "question": "Hantu apa yang hobinya jualan pulsa?",
+      "answer": "Pocong isi ulang",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_048",
+      "question": "Nasi apa yang gak pernah bikin kenyang?",
+      "answer": "Nasi-hat orang tua kalau gak didengerin",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_049",
+      "question": "Ikan apa yang bisa nyanyi dangdut?",
+      "answer": "Ikan mas Rhoma Irama",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_050",
+      "question": "Mobil apa yang bunyinya paling imut?",
+      "answer": "Mobil pik-up (Ciluk-ba)",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_051",
+      "question": "Kenapa ayam berkokok pas pagi hari?",
+      "answer": "Kalau malam takut dikira ronda",
+      "category": "Humor",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_052",
+      "question": "Buah apa yang bikin kita was-was?",
+      "answer": "Buah-ya darat di tongkrongan",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_053",
+      "question": "Benda apa yang kalau dipotong malah makin tinggi?",
+      "answer": "Celana panjang dipotong jadi celana pendek",
+      "category": "Tebak-tebakan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_054",
+      "question": "Burung apa yang suka ke pasar swalayan?",
+      "answer": "Burung elang-ganan setia",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_055",
+      "question": "Hewan apa yang paling banyak saudaranya di rumah?",
+      "answer": "Kutu buku keluarga",
+      "category": "Tebak-tebakan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_056",
+      "question": "Apa bedanya soto sama koto?",
+      "answer": "Kalau soto makanan, kalau koto mangga dua",
+      "category": "Pelesetan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_057",
+      "question": "Kenapa lampu merah kalau malam warnanya merah?",
+      "answer": "Karena kalau hijau nanti dikira cendol",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_058",
+      "question": "Sayur apa yang paling susah dilupain?",
+      "answer": "Sayur kangkung-senang masa lalu",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_059",
+      "question": "Tiang apa yang enak dimakan pas siang bolong?",
+      "answer": "Tiang-tiang minum es degan",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_060",
+      "question": "Siapa tokoh wayang yang suka main media sosial?",
+      "answer": "Gatot-kaca mata kamera selfie",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_061",
+      "question": "Bebek apa yang jalannya selalu ke kiri?",
+      "answer": "Bebek dikunci stang",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_062",
+      "question": "Tari apa yang paling bikin capek dan lelah?",
+      "answer": "Tarik tambang 10 ronde",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_063",
+      "question": "Kipas apa yang paling ditunggu-tunggu karyawan?",
+      "answer": "Kipas-ang gaji bulanan",
+      "category": "Pelesetan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_064",
+      "question": "Hewan apa yang paling sering disuruh-suruh?",
+      "answer": "Sapi, selalu dibilang 'Sapi-kan cucian itu'",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_065",
+      "question": "Kenapa dalang bawa wayang sambil duduk di panggung?",
+      "answer": "Kalau sambil kayang penontonnya bingung",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_066",
+      "question": "Piring apa yang gak bisa dipakai buat makan nasi?",
+      "answer": "Piringan hitam gramofon",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_067",
+      "question": "Kura-kura apa yang bisa jalan cepat banget?",
+      "answer": "Kura-kura ninja naik motor matic",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_068",
+      "question": "Kenapa Superman bajunya ada huruf S?",
+      "answer": "Karena kalau XL kegedean di badan",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_069",
+      "question": "Sambal apa yang bikin kangen rumah?",
+      "answer": "Sambal-ikan pelukan ibu",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_070",
+      "question": "Bantal apa yang gak pernah bikin orang ngantuk?",
+      "answer": "Bantal-an rel kereta api",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_071",
+      "question": "Kenapa nelayan kalau melaut cari ikan, bukan cari ayam?",
+      "answer": "Karena ayam gak bisa renang di laut",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_072",
+      "question": "Jas apa yang bikin badan basah kuyup?",
+      "answer": "Jas hujan yang bocor kabeh",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_073",
+      "question": "Hewan apa yang sering minta maaf duluan?",
+      "answer": "Ma-pari (Ikan pari minta maaf)",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_074",
+      "question": "Apa persamaan tukang bakso sama tukang mie ayam?",
+      "answer": "Sama-sama gak jualan pecel lele",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_075",
+      "question": "Kelereng apa yang paling bikin deg-degan?",
+      "answer": "Kelereng-kap dokumen pajak telat",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_076",
+      "question": "Palu apa yang paling disukai anak sekolah?",
+      "answer": "Palu-ang libur panjang",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_077",
+      "question": "Kenapa air mineral botol ada tutupnya?",
+      "answer": "Kalau ada atapnya namanya rumah subsidi",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_078",
+      "question": "Gelas apa yang paling tajam sedunia?",
+      "answer": "Gelas-an benang layangan aduan",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_079",
+      "question": "Binatang apa yang paling gak ada sopan santunnya?",
+      "answer": "Lalat, masuk rumah orang gak ketuk pintu",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_080",
+      "question": "Minyak apa yang bikin orang senyum bahagia?",
+      "answer": "Minyak-sikan anak wisuda sarjana",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_081",
+      "question": "Kenapa spion motor ada dua kiri dan kanan?",
+      "answer": "Soalnya kalau cuma satu namanya jomblo",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_082",
+      "question": "Gajah apa yang belalainya pendek banget?",
+      "answer": "Gajah yang lagi pilek berat",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_083",
+      "question": "Kue apa yang paling berani menghadapi tantangan?",
+      "answer": "Kue pancong, berani dipanggang bolak-balik",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_084",
+      "question": "Sepatu apa yang paling disukai waktu hujan deras?",
+      "answer": "Sepatuh payung berdua sama pasangan",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_085",
+      "question": "Jam apa yang sering dicari tukang bangunan?",
+      "answer": "Jam-batan penyeberangan",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_086",
+      "question": "Kenapa pelangi munculnya melengkung indah?",
+      "answer": "Kalau lurus disangka penggaris tukang",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_087",
+      "question": "Lem apa yang bisa bikin orang jatuh cinta?",
+      "answer": "Lem-but tutur katamu padaku",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_088",
+      "question": "Ikan apa yang suka berhenti di lampu merah?",
+      "answer": "Ikan tongkol-ing helm dulu",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_089",
+      "question": "Koper apa yang bisa dimakan rame-rame?",
+      "answer": "Koper-asi simpan pinjam (Koper-misan)",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_090",
+      "question": "Kenapa tangga di rumah ada anak tangganya?",
+      "answer": "Kalau ada bapak tangganya nanti diajak ngopi",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_091",
+      "question": "Ban apa yang bisa dimakan pakai kuah santan?",
+      "answer": "Ban-deng presto duri lunak",
+      "category": "Pelesetan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_092",
+      "question": "Hewan apa yang paling patuh sama guru les?",
+      "answer": "Anjing pelacak, selalu rajin cari jejak",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_093",
+      "question": "Baju apa yang paling tebal dan berat di dunia?",
+      "answer": "Baju-baja ksatria perang abad pertengahan",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_094",
+      "question": "Kenapa roda sepeda motor bentuknya bulat?",
+      "answer": "Karena kalau segitiga jalannya ndut-ndutan",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_095",
+      "question": "Rusa apa yang gak pernah punya tanduk?",
+      "answer": "Rusa-k jam wekernya bapak",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_096",
+      "question": "Soto apa yang bikin orang males ke mana-mana?",
+      "answer": "Soto-p kontak cabut charger hp",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_097",
+      "question": "Kenapa pintu kulkas kalau ditutup langsung nempel rapat?",
+      "answer": "Biar sayurannya gak kabur keluar",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_098",
+      "question": "Cacing apa yang paling dibenci pengendara mobil?",
+      "answer": "Cacing tanah longsor di tanjakan",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_099",
+      "question": "Tomat apa yang bisa terbang ke angkasa luar?",
+      "answer": "Tomat-or roket luar angkasa",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_100",
+      "question": "Kenapa kucing suka tidur di atas kap mobil?",
+      "answer": "Karena kalau tidur di knalpot kepanasan",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_101",
+      "question": "Bedak apa yang paling disukai bapak tukang kayu?",
+      "answer": "Bedak-u paku di balok kayu",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_102",
+      "question": "Singa apa yang paling disukai pembeli warung?",
+      "answer": "Singa-song (Sing ada ongkirnya)",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_103",
+      "question": "Kenapa ban serep mobil selalu ditaruh di bagasi belakang?",
+      "answer": "Biar gak ikut rebutan setir mobil",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_104",
+      "question": "Padi apa yang bunyinya paling berisik di jalan?",
+      "answer": "Padi-padi klakson bus telolet",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_105",
+      "question": "Hewan apa yang paling pandai menjaga rahasia bank?",
+      "answer": "Burung beo bisu",
+      "category": "Tebak-tebakan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_106",
+      "question": "Kenapa kalau mau tidur orang harus merem matanya?",
+      "answer": "Kalau merem telinganya gak bisa ditekuk",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_107",
+      "question": "Ember apa yang bisa nyanyi pop romantis?",
+      "answer": "Ember-ti Marcell Siahaan",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_108",
+      "question": "Kabel apa yang paling ditunggu-tunggu warga desa?",
+      "answer": "Kabel-kabar gembira dari kecamatan",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_109",
+      "question": "Kenapa layang-layang bisa terbang melayang di langit?",
+      "answer": "Karena ditarik benang, kalau ditarik utang sedih",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_110",
+      "question": "Kopi apa yang paling enak diminum pas hari Minggu?",
+      "answer": "Kopi-lihan hati tersayang",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_111",
+      "question": "Pensil apa yang paling sering dicari anak arsitek?",
+      "answer": "Pensil-atan gambar teknik",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_112",
+      "question": "Kenapa semut gak pernah kena tilang polisi di jalan?",
+      "answer": "Soalnya semut selalu pakai jalur lambat",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_113",
+      "question": "Meja apa yang gak punya kaki sama sekali?",
+      "answer": "Meja-lankan sholat lima waktu",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_114",
+      "question": "Kereta apa yang gak bisa jalan di rel besi?",
+      "answer": "Kereta dorong bayi baru lahir",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_115",
+      "question": "Kenapa dalang kalau main wayang suaranya suka diubah-ubah?",
+      "answer": "Kalau suaranya sama semua nanti dikira paduan suara",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_116",
+      "question": "Sepeda apa yang gak ada rodanya sama sekali?",
+      "answer": "Sepeda-patnya rezeki hari ini disyukuri",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_117",
+      "question": "Hewan apa yang paling doyan minum kopi di warung?",
+      "answer": "Capung-kopi (Kupu-kupu ngopi)",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_118",
+      "question": "Kenapa jalan tol bayarnya harus pakai kartu elektronik?",
+      "answer": "Kalau pakai daun pisang gak diterima mesin",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_119",
+      "question": "Bintang apa yang paling terang pas malam minggu?",
+      "answer": "Bintang film idola bapak di tv",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_120",
+      "question": "Kenapa sendok dan garpu selalu berdampingan di meja makan?",
+      "answer": "Karena kalau sendirian namanya jomblo ngenes",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_121",
+      "question": "Kenapa kita harus hemat air?",
+      "answer": "Karena kalau hemat uang susah",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_122",
+      "question": "Ban apa yang kalau dipompa gak mau ngembang?",
+      "answer": "Bangkrut",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_123",
+      "question": "Burung apa yang paling sopan di jalan?",
+      "answer": "Burung camar, permisi camar (mau lewat)",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_124",
+      "question": "Hewan apa yang paling sederhana?",
+      "answer": "Ala-kadar-nya (Kadal)",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_125",
+      "question": "Benda apa yang paling setia menemani tidur?",
+      "answer": "Selimut tetangga",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_126",
+      "question": "Kenapa pintu bioskop selalu ditutup saat film mulai?",
+      "answer": "Biar setannya gak kabur keluar",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_127",
+      "question": "Ikan apa yang bisa terbang ke langit?",
+      "answer": "Ikan terbang naik helikopter",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_128",
+      "question": "Sayur apa yang sering disapa polisi?",
+      "answer": "Sayur kol, halo kol-ega",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_129",
+      "question": "Kota apa yang warganya paling suka ngantuk?",
+      "answer": "Tidore",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_130",
+      "question": "Kenapa orang botak selalu bahagia?",
+      "answer": "Karena gak pernah punya masalah rambut",
+      "category": "Humor",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_131",
+      "question": "Buah apa yang punya banyak tato?",
+      "answer": "Salak, kulitnya bersisik tribal",
+      "category": "Tebak-tebakan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_132",
+      "question": "Hewan apa yang paling rajin mengaji?",
+      "answer": "Sapi, sering baca Qur'an surah Al-Baqarah",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_133",
+      "question": "Kenapa pohon mangga berbuah mangga bukan apel?",
+      "answer": "Kalau berbuah apel namanya pohon selingkuh",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_134",
+      "question": "Jas apa yang gak bisa dipakai kerja?",
+      "answer": "Jas-jus rasa jeruk",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_135",
+      "question": "Sendal apa yang paling ditakuti penjahat?",
+      "answer": "Sendal-pot motor polisi",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_136",
+      "question": "Kenapa kucing kalau nyebrang gak pernah nengok kanan-kiri?",
+      "answer": "Karena gak punya leher panjang kaya jerapah",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_137",
+      "question": "Daun apa yang bisa nyanyi dangdut?",
+      "answer": "Daun-daunan koplo",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_138",
+      "question": "Gajah apa yang paling kurus sedunia?",
+      "answer": "Gajah yang jarang dikasih uang jajan",
+      "category": "Tebak-tebakan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_139",
+      "question": "Makanan apa yang bunyinya paling cerewet?",
+      "answer": "Bacem, banyak omong",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_140",
+      "question": "Kenapa roda gerobak cuma dua?",
+      "answer": "Kalau empat nanti minta pasang plat hitam",
+      "category": "Humor",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_141",
+      "question": "Kelereng apa yang bisa terbang?",
+      "answer": "Kelereng-teng layang-layang putus",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_142",
+      "question": "Nasi apa yang selalu bikin sedih dan galau?",
+      "answer": "Nasi-b kita yang belum jadian",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_143",
+      "question": "Kenapa cicak kalau jatuh gak pernah nangis?",
+      "answer": "Karena cicak malu dilihat nyamuk",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_144",
+      "question": "Kipas apa yang bikin pusing tujuh keliling?",
+      "answer": "Kipas-ang kabel ruwet",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_145",
+      "question": "Bola apa yang sering dipake tidur siang?",
+      "answer": "Bola-ang (Bantal guling)",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_146",
+      "question": "Kenapa Superman kalau terbang tangannya ke depan?",
+      "answer": "Kalau tangannya ke belakang nanti disangka mau nyelam",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_147",
+      "question": "Bunga apa yang paling ditakuti preman pasar?",
+      "answer": "Bunga bank cicilan macet",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_148",
+      "question": "Singa apa yang paling ramah tamah?",
+      "answer": "Singa-gah ke rumah sebentar yuk",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_149",
+      "question": "Hewan apa yang selalu bawa kasur ke mana-mana?",
+      "answer": "Kura-kura, rumah sekalian kasurnya",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_150",
+      "question": "Kenapa spidol papan tulis baunya harum?",
+      "answer": "Kalau bau terasi gurunya pada lapar",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_151",
+      "question": "Ember apa yang bisa nyetir mobil?",
+      "answer": "Ember-t (Driver) online",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_152",
+      "question": "Ular apa yang paling jujur dan gak suka bohong?",
+      "answer": "Ular tangga, gak pernah curang nomornya",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_153",
+      "question": "Kenapa jam dinding muternya ke kanan?",
+      "answer": "Soalnya kalau muter balik ketemu polisi tidur",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_154",
+      "question": "Es apa yang paling panas di dunia?",
+      "answer": "Es-kalator kebakar",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_155",
+      "question": "Binatang apa yang paling sering kena razia dompet?",
+      "answer": "Burung gagak, minta uang jajan terus",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_156",
+      "question": "Kenapa ikan hidupnya di air asin?",
+      "answer": "Biar pas digoreng gak perlu dikasih garam lagi",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_157",
+      "question": "Baju apa yang bikin orang minder?",
+      "answer": "Baju-rakan tetangga lebih mewah",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_158",
+      "question": "Bel apa yang bunyinya bikin lapar?",
+      "answer": "Bel-in bakso semangkok dong",
+      "category": "Pelesetan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_159",
+      "question": "Roti apa yang selalu bikin waspada?",
+      "answer": "Roti tawar beracun",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_160",
+      "question": "Kenapa kalau minum teh harus pakai cangkir?",
+      "answer": "Kalau pakai ember nanti dikira mau mandi",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_161",
+      "question": "Hewan apa yang paling suka jajan di kantin?",
+      "answer": "Bebek, suka bawa kupon (wek-wek)",
+      "category": "Tebak-tebakan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_162",
+      "question": "Tomat apa yang pintar bela diri?",
+      "answer": "Tomat-rial art",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_163",
+      "question": "Kera apa yang bikin dompet tebal?",
+      "answer": "Kera-ja keras bagai kuda",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_164",
+      "question": "Kenapa gitar harus dipetik?",
+      "answer": "Kalau dicabut nanti putus tali silaturahminya",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_165",
+      "question": "Mobil apa yang paling sopan saat parkir?",
+      "answer": "Mobil per-misi",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_166",
+      "question": "Kenapa bebek kalau jalan berbaris rapi?",
+      "answer": "Biar gak disalip sama angkot",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_167",
+      "question": "Lemari apa yang paling manis rasanya?",
+      "answer": "Lemari-sa madu murni",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_168",
+      "question": "Hantu apa yang hobi olahraga pagi?",
+      "answer": "Pocong lompat tali (skipping)",
+      "category": "Tebak-tebakan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_169",
+      "question": "Kenapa kabel listrik di tiang dipasang kendor?",
+      "answer": "Biar burung ada tempat buat rebahan",
+      "category": "Humor",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_170",
+      "question": "Ikan apa yang paling ditakuti mahasiswa semester akhir?",
+      "answer": "Ikan mas-alah skripsi",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_171",
+      "question": "Sapi apa yang suka main sulap?",
+      "answer": "Sapi-derman",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_172",
+      "question": "Kenapa ayam kalau tidur satu kaki diangkat?",
+      "answer": "Kalau diangkat dua-duanya nanti jatuh",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_173",
+      "question": "Sepatu apa yang bunyinya nyaring banget?",
+      "answer": "Sepatu-ringan bel sekolah",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_174",
+      "question": "Buah apa yang bisa mengeluarkan air mata?",
+      "answer": "Buah-aya darat nangis penyesalan",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_175",
+      "question": "Kenapa kalau ronda malam bawa kentongan?",
+      "answer": "Kalau bawa drum band nanti warga pada joget",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_176",
+      "question": "Gelas apa yang gak bisa diisi kopi?",
+      "answer": "Gelas pecah seribu",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_177",
+      "question": "Hewan apa yang paling suka nongkrong di kafe?",
+      "answer": "Kutu kopi (kutu buku versi nongkrong)",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_178",
+      "question": "Kenapa tukang cukur selalu nanya mau model apa?",
+      "answer": "Soalnya kalau nanya kabar nanti baper",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_179",
+      "question": "Minuman apa yang bisa bikin kita ingat janji?",
+      "answer": "Kopi-tmen (Komitmen) bersama",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_180",
+      "question": "Kereta apa yang jalannya paling lambat di dunia?",
+      "answer": "Kereta-wa kecil (Hehehe)",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_181",
+      "question": "Kenapa orang kalau batuk suka tutup mulut?",
+      "answer": "Biar giginya gak loncat ke luar",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_182",
+      "question": "Pensil apa yang paling tajam bicaranya?",
+      "answer": "Pensil-am lidah netizen",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_183",
+      "question": "Cacing apa yang bisa terbang ke awan?",
+      "answer": "Cacing-an di balon udara",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_184",
+      "question": "Kenapa dalang wayang kulit selalu laki-laki?",
+      "answer": "Karena kalau perempuan namanya bu-lang",
+      "category": "Pelesetan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_185",
+      "question": "Bantal apa yang paling berat di dunia?",
+      "answer": "Bantal-an semen satu sak",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_186",
+      "question": "Bebek apa yang paling terkenal di dunia sinema?",
+      "answer": "Bebek to the future",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_187",
+      "question": "Kenapa zebra badannya belang-belang hitam putih?",
+      "answer": "Kalau belang-belang macan tutul nanti dikira sepupuan",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_188",
+      "question": "Kopi apa yang paling bikin tegang dan cemas?",
+      "answer": "Kopi-lang polisi di jalan raya",
+      "category": "Pelesetan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_189",
+      "question": "Binatang apa yang paling taat bayar tagihan?",
+      "answer": "Burung hantu, gak pernah nunggak iuran malam",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_190",
+      "question": "Kenapa remote tv suka hilang sendiri?",
+      "answer": "Karena dia punya privasi, butuh me-time",
+      "category": "Humor",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_191",
+      "question": "Sapu apa yang bunyinya paling cepat?",
+      "answer": "Sapu-da motor balap",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_192",
+      "question": "Daun apa yang sering dicari montir bengkel?",
+      "answer": "Daun-baut (Mur baut)",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_193",
+      "question": "Kenapa layangan kalau putus selalu dikejar anak-anak?",
+      "answer": "Karena kalau didiemin gak bakal pulang sendiri",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_194",
+      "question": "Ikan apa yang paling rajin beribadah di sungai?",
+      "answer": "Ikan lele, selalu bersujud di dasar",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_195",
+      "question": "Kasur apa yang bisa bikin orang kaya mendadak?",
+      "answer": "Kasur-plus neraca perdagangan",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_196",
+      "question": "Kenapa kucing suka menggaruk jok motor bapak?",
+      "answer": "Buat ngasah cakar persiapan jadi harimau",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_197",
+      "question": "Bunga apa yang bisa bikin orang sehat bugar?",
+      "answer": "Bunga-kar muatan kapal",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_198",
+      "question": "Truk apa yang paling sering dipeluk orang kedinginan?",
+      "answer": "Truk-tor selimut hangat",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_199",
+      "question": "Kenapa dompet bapak sering tipis di akhir bulan?",
+      "answer": "Karena diet ketat, gak makan uang",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_200",
+      "question": "Gajah apa yang paling suka foto pemandangan?",
+      "answer": "Gajah selfie di savana",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_201",
+      "question": "Kenapa pensil selalu bawa penghapus di kepalanya?",
+      "answer": "Biar siap minta maaf kalau ada salah tulis",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_202",
+      "question": "Minyak apa yang paling disenangi anak kost?",
+      "answer": "Minyak-in uang kiriman ortu",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_203",
+      "question": "Burung apa yang paling gemar berbelanja online?",
+      "answer": "Burung emprit, klik keranjang checkout",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_204",
+      "question": "Kenapa es krim kalau kena panas meleleh?",
+      "answer": "Karena dia gak sanggup menahan beban perasaan",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_205",
+      "question": "Mangga apa yang paling gak enak buat dimakan?",
+      "answer": "Mangga-nggur gak punya kerjaan",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_206",
+      "question": "Hewan apa yang paling suka tidur di kasur empuk?",
+      "answer": "Kucing peliharaan sultan",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_207",
+      "question": "Kenapa sendal jepit suka putus tali depannya?",
+      "answer": "Karena lelah menopang beratnya langkah hidup",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_208",
+      "question": "Soto apa yang bikin orang tertawa terbahak-bahak?",
+      "answer": "Soto-lonyol tingkahnya",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_209",
+      "question": "Kura-kura apa yang paling rajin belajar di sekolah?",
+      "answer": "Kura-kurikulum merdeka",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_210",
+      "question": "Kenapa matahari selalu terbit dari timur?",
+      "answer": "Kalau dari barat tandanya kiamat, bapak belum siap",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_211",
+      "question": "Hewan apa yang paling suka bantuin emak di dapur?",
+      "answer": "Kepiting, jago ngupas bawang",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_212",
+      "question": "Roda apa yang gak bisa berputar sama sekali?",
+      "answer": "Roda nasib yang lagi mandek",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_213",
+      "question": "Kenapa paku kalau dipukul palu nancep ke kayu?",
+      "answer": "Kalau nancep ke hati namanya patah hati",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_214",
+      "question": "Belut apa yang paling ditakuti bendahara kelas?",
+      "answer": "Belut-ang kas nunggak setahun",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_215",
+      "question": "Kunci apa yang paling enak disantap malam hari?",
+      "answer": "Kunci-lan sate kambing",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_216",
+      "question": "Kenapa pintu gerbang rumah harus dikunci malam-malam?",
+      "answer": "Biar nyamuk tetangga gak sembarangan masuk",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_217",
+      "question": "Binatang apa yang paling jago main basket?",
+      "answer": "Kera-njang basket NBA",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_218",
+      "question": "Celana apa yang bikin orang kagum luar biasa?",
+      "answer": "Celana-jutnya kita saksikan keajaiban ini",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_219",
+      "question": "Kenapa lampu bohlam bentuknya bulat lonjong?",
+      "answer": "Biar gak ketuker sama melon di kulkas",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_220",
+      "question": "Kota apa yang warganya paling setia menemani bapak ngopi?",
+      "answer": "Temang-gung kawan sejati",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_221",
+      "question": "Kenapa anak babi kalau jalan nunduk?",
+      "answer": "Karena malu ibunya babi",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_222",
+      "question": "Sayur apa yang sering kedinginan?",
+      "answer": "Sayur bayam-bayem angin (Sayur adem)",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_223",
+      "question": "Hewan apa yang paling banyak saudara kembarnya?",
+      "answer": "Katak beradik",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_224",
+      "question": "Kenapa nyamuk bunyinya nging-nging?",
+      "answer": "Karena kalau bunyinya dang-dut nanti digoyang biduan",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_225",
+      "question": "Pintu apa yang gak pernah dikunci sama pemiliknya?",
+      "answer": "Pintu rel kereta api",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_226",
+      "question": "Sambal apa yang paling bikin sedih?",
+      "answer": "Sambal-ungan telepon diputus sepihak",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_227",
+      "question": "Kenapa cicak suka nempel di dinding?",
+      "answer": "Kalau nempel di hati bapak nanti emak cemburu",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_228",
+      "question": "Buah apa yang paling pemberani?",
+      "answer": "Buah naga, berani ngeluarin api",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_229",
+      "question": "Sapu apa yang bisa dinaiki bareng keluarga?",
+      "answer": "Sapu-da motor matic",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_230",
+      "question": "Kenapa kasur di kamar harus ada sprei?",
+      "answer": "Kalau dikasih bumbu rujak namanya rujak cingur",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_231",
+      "question": "Bebek apa yang paling pintar nyanyi dangdut?",
+      "answer": "Bebek Mansyur S (Bebek goyang)",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_232",
+      "question": "Ban apa yang kalau pecah gak bikin panik?",
+      "answer": "Bangku taman patah",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_233",
+      "question": "Kenapa jam tangan ditaruh di pergelangan tangan?",
+      "answer": "Kalau ditaruh di dompet namanya jam gadang",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_234",
+      "question": "Ikan apa yang suka minta uang receh?",
+      "answer": "Ikan cupang parkir",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_235",
+      "question": "Bunga apa yang paling bikin emak-emak senyum lebar?",
+      "answer": "Bunga deposito cair pas gajian",
+      "category": "Humor",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_236",
+      "question": "Hewan apa yang kalau jalan mundur terus?",
+      "answer": "Undur-undur lagi parkir seri",
+      "category": "Tebak-tebakan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_237",
+      "question": "Kenapa tukang siomay kalau jualan bawa garpu?",
+      "answer": "Kalau bawa gitar nanti jadi pengamen jalanan",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_238",
+      "question": "Lemari apa yang paling sering dicari anak kos?",
+      "answer": "Lemari-buan sisa di saku jaket",
+      "category": "Pelesetan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_239",
+      "question": "Kopi apa yang bikin mata langsung seger?",
+      "answer": "Kopi-cut voucher belanja gratis",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_240",
+      "question": "Kenapa ayam jago gak punya tangan?",
+      "answer": "Karena telurnya udah ada di emak ayam",
+      "category": "Humor",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_241",
+      "question": "Burung apa yang paling hobi olahraga angkat beban?",
+      "answer": "Burung fit-nes (Burung pipit)",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_242",
+      "question": "Daun apa yang paling ditunggu setiap akhir bulan?",
+      "answer": "Daun-load saldo transfer masuk",
+      "category": "Pelesetan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_243",
+      "question": "Kenapa gajah matanya sipit?",
+      "answer": "Karena kalau belok gak pernah nyalain sein",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_244",
+      "question": "Kota apa yang warganya paling suka denger musik pop?",
+      "answer": "Kota-k (Band Kotak)",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_245",
+      "question": "Hewan apa yang selalu siap menghadapi ujian nasional?",
+      "answer": "Ikan tongkol, belajar siang malam sampai tongkolan",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_246",
+      "question": "Kenapa spion sepeda motor dipasang di stang?",
+      "answer": "Kalau dipasang di spakbor nanti nabrak terus",
+      "category": "Humor",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_247",
+      "question": "Jas apa yang paling wangi di kantor?",
+      "answer": "Jas-mel (Melati) semerbak",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_248",
+      "question": "Nasi apa yang bisa jalan kaki sendiri?",
+      "answer": "Nasi-hat bijak orang tua",
+      "category": "Pelesetan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_249",
+      "question": "Kenapa kucing suka menjilat bulunya sendiri?",
+      "answer": "Karena kalau menjilat es teh manis gak dikasih bapak",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_250",
+      "question": "Ular apa yang bisa bikin rumah tangga bahagia?",
+      "answer": "Ular-i rezeki halal dan berkah",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_251",
+      "question": "Benda apa yang kalau dibanting gak pecah tapi kalau disentuh hilang?",
+      "answer": "Bayangan di cermin",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_252",
+      "question": "Kenapa roda truk diameternya besar?",
+      "answer": "Karena kalau kecil namanya roda koper dorong",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_253",
+      "question": "Kipas apa yang paling bikin damai suasana?",
+      "answer": "Kipas-ang salam perdamaian",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_254",
+      "question": "Hewan apa yang gak pernah telat masuk kerja?",
+      "answer": "Ayam jago, selalu bangun sebelum jam enam",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_255",
+      "question": "Kenapa kalau foto orang suka senyum 'cheese'?",
+      "answer": "Kalau bilang 'terasi' nanti mulutnya monyong",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_256",
+      "question": "Minuman apa yang bisa bikin orang sabar dan tabah?",
+      "answer": "Sirup-kan semua masalah dengan senyum",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_257",
+      "question": "Tomat apa yang paling sering disapa teman?",
+      "answer": "Tomat-an alumni SMA",
+      "category": "Pelesetan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_258",
+      "question": "Kenapa air mineral galon harus dibalik pas dipasang di dispenser?",
+      "answer": "Soalnya kalau gak dibalik airnya gak keluar-keluar",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_259",
+      "question": "Hewan apa yang suka banget sama musik rock?",
+      "answer": "Rock-un (Rakun) gitaris",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_260",
+      "question": "Kunci apa yang paling sering dibikin nangis?",
+      "answer": "Kunci-ntai dirimu sepenuh hati tapi ditolak",
+      "category": "Pelesetan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_261",
+      "question": "Kenapa pohon kelapa batangnya tinggi menjulang?",
+      "answer": "Biar kalau ada layangan nyangkut gak gampang diambil",
+      "category": "Humor",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_262",
+      "question": "Kue apa yang paling cerewet di toko roti?",
+      "answer": "Kue bolu-m selesai ngomong dipotong",
+      "category": "Pelesetan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_263",
+      "question": "Cacing apa yang paling dibenci anak-anak?",
+      "answer": "Cacing-an waktu main becek",
+      "category": "Tebak-tebakan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_264",
+      "question": "Kenapa helm bapak sering bau minyak kayu putih?",
+      "answer": "Biar kepalanya selalu hangat dan masuk akal",
+      "category": "Humor",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_265",
+      "question": "Mobil apa yang selalu bikin orang heran?",
+      "answer": "Mobil-ang cinta tapi malu-malu",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_266",
+      "question": "Gelas apa yang paling bikin pusing bapak-bapak?",
+      "answer": "Gelas-ar genteng bocor pas hujan lebat",
+      "category": "Pelesetan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_267",
+      "question": "Kenapa pensil warnanya hitam di dalamnya?",
+      "answer": "Karena kalau isinya kuah bakso namanya mangkok",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_268",
+      "question": "Binatang apa yang paling setia mendengarkan curhat?",
+      "answer": "Anjing peliharaan, diem aja sambil manggut-manggut",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_269",
+      "question": "Singa apa yang paling disukai pemburu diskon?",
+      "answer": "Singa-gah ke toko swalayan pas promo",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_270",
+      "question": "Kenapa kapal selam jalannya di bawah permukaan air?",
+      "answer": "Karena kalau jalannya di darat namanya odong-odong",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_271",
+      "question": "Sayur apa yang paling sering bikin kaget orang?",
+      "answer": "Sayur to-ge (To-ge-ther tiba-tiba nongol)",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_272",
+      "question": "Bantal apa yang paling sering dipeluk waktu lapar?",
+      "answer": "Bantal-an roti tawar selai cokelat",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_273",
+      "question": "Kenapa tiang bendera harus berdiri tegak?",
+      "answer": "Soalnya kalau rebahan namanya jemuran sarung",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_274",
+      "question": "Ikan apa yang bisa nyetir pesawat tempur?",
+      "answer": "Ikan lele-vator naik ke langit",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_275",
+      "question": "Bedak apa yang paling disukai ibu rumah tangga?",
+      "answer": "Bedak-up dana belanja dari suami",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_276",
+      "question": "Kenapa kucing suka mengendus-endus makanan?",
+      "answer": "Buat ngecek status gizi sebelum disikat",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_277",
+      "question": "Jam apa yang sering bikin orang kenyang?",
+      "answer": "Jam-uan makan malam syukuran",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_278",
+      "question": "Kera apa yang paling sabar menghadapi cobaan hidup?",
+      "answer": "Kera-la menerima kenyataan apa adanya",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_279",
+      "question": "Kenapa lampu taman nyalanya malam hari?",
+      "answer": "Karena kalau siang dia ikut kerja bakti",
+      "category": "Humor",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_280",
+      "question": "Hewan apa yang paling hobi jalan-jalan ke mall?",
+      "answer": "Kucing shopping",
+      "category": "Tebak-tebakan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_281",
+      "question": "Ban apa yang paling disukai waktu kumpul keluarga?",
+      "answer": "Ban-drek hangat campur jahe",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_282",
+      "question": "Kenapa burung beo suka menirukan suara orang?",
+      "answer": "Karena kalau menirukan sirine ambulans warga panik",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_283",
+      "question": "Sepatu apa yang paling sering dicari pas lapar?",
+      "answer": "Sepatu-lan nasi padang rendang",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_284",
+      "question": "Kota apa yang warganya paling jago main catur?",
+      "answer": "Kota-k pion dan kuda",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_285",
+      "question": "Kenapa kalau hujan kaca mobil suka berembun?",
+      "answer": "Karena AC-nya kedinginan butuh selimut",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_286",
+      "question": "Roti apa yang paling ditakuti penjajah?",
+      "answer": "Roti-gan bambu runcing",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_287",
+      "question": "Hewan apa yang paling doyan olahraga renang gaya punggung?",
+      "answer": "Ikan pari lagi rebahan santai",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_288",
+      "question": "Kenapa tukang potong rambut pakai celemek?",
+      "answer": "Biar bajunya gak ketukar sama pasien operasi",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_289",
+      "question": "Gajah apa yang paling gampang dibawa ke kantor?",
+      "answer": "Gajah-tan dokumen di tas kerja (Gajet/Gadget)",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_290",
+      "question": "Mangga apa yang paling suka bikin janji palsu?",
+      "answer": "Mangga-ntung harapan setinggi langit",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_291",
+      "question": "Kenapa sendal jepit kanan dan kiri bentuknya beda?",
+      "answer": "Biar jempol kakinya gak saling berebut tempat",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_292",
+      "question": "Kereta apa yang paling sering dicari anak kos akhir bulan?",
+      "answer": "Kereta-mpelan gratisan dari teman",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_293",
+      "question": "Burung apa yang paling taat bayar pajak kendaraan?",
+      "answer": "Burung puyuh taat aturan samsat",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_294",
+      "question": "Kenapa anak kecil kalau nangis matanya keluar air mata?",
+      "answer": "Kalau keluar air kelapa namanya es degan",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_295",
+      "question": "Kopi apa yang paling romantis di dunia?",
+      "answer": "Kopi-kirkan kamu setiap saat",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_296",
+      "question": "Hewan apa yang paling suka main teka-teki silang?",
+      "answer": "Semut rangrang mikir jawaban mendatar",
+      "category": "Tebak-tebakan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_297",
+      "question": "Kenapa bapak-bapak suka ngopi sambil baca koran?",
+      "answer": "Karena kalau sambil kayang kopinya tumpah ke jidat",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_298",
+      "question": "Sapi apa yang jalannya selalu teratur dan rapi?",
+      "answer": "Sapi-kiran positif setiap pagi",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_299",
+      "question": "Bunga apa yang paling disukai waktu kepanasan?",
+      "answer": "Bunga-bungan es batu di termos",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_300",
+      "question": "Kenapa kalau tidur lampu kamar dimatikan?",
+      "answer": "Biar nyamuknya gak bisa lihat kita lagi merem",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_301",
+      "question": "Ular apa yang paling rajin belajar berhitung?",
+      "answer": "Ular naga panjangnya bukan main (ngitung langkah)",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_302",
+      "question": "Bebek apa yang paling sering dicari montir mobil?",
+      "answer": "Bebek-up aki cadangan",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_303",
+      "question": "Kenapa roda gerobak dorong bunyinya kriet-kriet?",
+      "answer": "Karena belum dikasih royalti minyak pelumas",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_304",
+      "question": "Jas apa yang paling sering diperebutkan waktu makan siang?",
+      "answer": "Jas-jus dingin rasa mangga",
+      "category": "Pelesetan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_305",
+      "question": "Hewan apa yang paling jago silat dan bela diri?",
+      "answer": "Kera sakti sun go kong",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_306",
+      "question": "Kenapa pintu pagar rumah bunyinya derit-derit?",
+      "answer": "Biar yang punya rumah tahu ada tamu tak diundang",
+      "category": "Humor",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_307",
+      "question": "Belut apa yang paling sering nongkrong di gardu pos kamling?",
+      "answer": "Belut-ut ronda malam bawa kopi",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_308",
+      "question": "Sayur apa yang paling taat tata tertib berlalu lintas?",
+      "answer": "Sayur sop-an di jalan raya",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_309",
+      "question": "Kenapa kucing suka ngeong minta makan?",
+      "answer": "Karena kalau ngetik WhatsApp tangannya gak nyampe",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_310",
+      "question": "Bantal apa yang paling bikin semangat kerja?",
+      "answer": "Bantal-an THR cair sebelum lebaran",
+      "category": "Pelesetan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_311",
+      "question": "Truk apa yang paling sering disapa tetangga sebelah?",
+      "answer": "Truk-tur silaturahmi antar RT",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_312",
+      "question": "Kenapa matahari terbit gak pernah kesiangan?",
+      "answer": "Karena alarmnya langsung dari alam semesta",
+      "category": "Humor",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_313",
+      "question": "Makanan apa yang paling sering bikin orang terharu?",
+      "answer": "Makanan gratis traktiran teman lama",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_314",
+      "question": "Daun apa yang paling sering bikin pusing bapak kepala keluarga?",
+      "answer": "Daun-sur tagihan listrik membengkak",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_315",
+      "question": "Kenapa kalau nyalain korek api harus digesek?",
+      "answer": "Kalau ditelepon namanya customer service",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_316",
+      "question": "Ikan apa yang paling suka jalan-jalan ke bioskop?",
+      "answer": "Ikan tongkol nonton film horor",
+      "category": "Tebak-tebakan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_317",
+      "question": "Kelereng apa yang paling bikin orang betah di rumah?",
+      "answer": "Kelereng-kapan fasilitas internet lancar",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_318",
+      "question": "Kenapa kalau kita haus harus minum air?",
+      "answer": "Karena kalau minum semen nanti tenggorokannya dicor",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_319",
+      "question": "Tomat apa yang paling rajin nabung di celengan?",
+      "answer": "Tomat-erial masa depan cerah",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_320",
+      "question": "Kota apa yang warganya paling suka bercanda tawa?",
+      "answer": "Kota-wa terbahak-bahak bareng keluarga",
+      "category": "Pelesetan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_321",
+      "question": "Kecoa apa yang bikin masuk rumah sakit?",
+      "answer": "Kecoalakaan lalu lintas",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_322",
+      "question": "Kenapa cicak suka makan nyamuk?",
+      "answer": "Karena kalau makan nasi uduk gak ada yang bayarin",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_323",
+      "question": "Kambing apa yang paling rajin belajar?",
+      "answer": "Kambing-bingan skripsi",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_324",
+      "question": "Gelas apa yang bisa muter lagu pop?",
+      "answer": "Gelas-ik rock FM",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_325",
+      "question": "Kenapa kalau orang mandi harus pakai sabun?",
+      "answer": "Kalau pakai bumbu racik nanti jadi ayam goreng",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_326",
+      "question": "Jus apa yang gak bisa diminum sama sekali?",
+      "answer": "Justru itu yang bikin bingung",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_327",
+      "question": "Kenapa air kelapa muda selalu ada di dalam kelapa?",
+      "answer": "Kalau di luar namanya banjir kelapa",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_328",
+      "question": "Sepatu apa yang paling disukai waktu kedinginan?",
+      "answer": "Sepatu-lan sup buntut hangat",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_329",
+      "question": "Kue apa yang bunyinya paling nyaring?",
+      "answer": "Kue-klakson mobil tetangga",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_330",
+      "question": "Kenapa ikan cupang kalau diadu suka mekar?",
+      "answer": "Biar dikira bunga mawar sama lawannya",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_331",
+      "question": "Paku apa yang gak bisa nancap di dinding kayu?",
+      "answer": "Paku-m bensin pertamina",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_332",
+      "question": "Kucing apa yang paling ditakuti tikus kantor?",
+      "answer": "Kucing-sultasi pajak telat bayar",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_333",
+      "question": "Kenapa tukang sate suka ngipasin satenya?",
+      "answer": "Biar satenya gak gerah kepanasan arang",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_334",
+      "question": "Singa apa yang paling disukai waktu makan bubur ayam?",
+      "answer": "Singa-krup kerupuk emping",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_335",
+      "question": "Sayur apa yang bikin suasana jadi sejuk?",
+      "answer": "Sayur adem-ayem",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_336",
+      "question": "Kenapa lampu lalu lintas warnanya merah, kuning, hijau?",
+      "answer": "Kalau warnanya ungu nanti dikira grup band Pasha Ungu",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_337",
+      "question": "Bebek apa yang paling jago main sepak bola?",
+      "answer": "Bebek kiri dan bebek kanan (Bek)",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_338",
+      "question": "Benda apa yang kalau dibeli pasti dibuang isinya?",
+      "answer": "Bungkus kacang kulit",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_339",
+      "question": "Kenapa gajah kalau nyebrang jalan gak pernah nengok?",
+      "answer": "Karena gajah gak punya spion di kupingnya",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_340",
+      "question": "Kopi apa yang bikin suasana keluarga jadi akur?",
+      "answer": "Kopi-lingan rukun tetangga",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_341",
+      "question": "Kenapa anak bidadari gak pernah rewel?",
+      "answer": "Soalnya dari kecil udah diajarin bidadab (beradab)",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_342",
+      "question": "Kucing apa yang paling sering dicari arsitek?",
+      "answer": "Kucing-kucing kunci pintu rumah (Kancing)",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_343",
+      "question": "Kenapa motor mogok harus distut?",
+      "answer": "Kalau dipeluk nanti bapernya gak kelar-kelar",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_344",
+      "question": "Burung apa yang paling sering bikin kaget bapak-bapak?",
+      "answer": "Burung-buru bayar cicilan motor",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_345",
+      "question": "Buah apa yang paling jago silat?",
+      "answer": "Buah naga-sa (Pendekar naga)",
+      "category": "Pelesetan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_346",
+      "question": "Kenapa ikan patin hidupnya di air tawar?",
+      "answer": "Karena kalau di air panas jadi sup ikan patin",
+      "category": "Humor",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_347",
+      "question": "Sayur apa yang sering kangen kampung halaman?",
+      "answer": "Sayur kangkung-en masa kecil",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_348",
+      "question": "Benda apa yang paling rajin keliling komplek tiap subuh?",
+      "answer": "Gerobak sampah dinas kebersihan",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_349",
+      "question": "Kenapa ban motor depannya bundar belakangnya juga bundar?",
+      "answer": "Kalau yang belakang petak jalannya gelimpungan",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_350",
+      "question": "Hewan apa yang paling suka jajan es lilin?",
+      "answer": "Be-bek-icot bawa uang saku",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_351",
+      "question": "Kopi apa yang paling bikin tenang hati?",
+      "answer": "Kopi-kir baik-baik sebelum bertindak",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_352",
+      "question": "Kenapa kipas angin di kamar suka noleh ke kanan dan ke kiri?",
+      "answer": "Soalnya dia lagi nyari angin segar",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_353",
+      "question": "Truk apa yang paling santun di jalan raya?",
+      "answer": "Truk-tur kata yang lembut dan sopan",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_354",
+      "question": "Hewan apa yang paling setia nungguin gajian?",
+      "answer": "Burung doro-ngan kebutuhan rumah tangga",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_355",
+      "question": "Kenapa gunting kuku gak pernah dipakai buat potong rumput?",
+      "answer": "Soalnya rumputnya gak punya jempol kaki",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_356",
+      "question": "Jam apa yang paling disenangi pegawai kantor?",
+      "answer": "Jam pulang teng-go (teng langsung go)",
+      "category": "Tebak-tebakan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_357",
+      "question": "Singa apa yang paling sering nongkrong di warteg?",
+      "answer": "Singa-gah beli gorengan lima ribu",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_358",
+      "question": "Kenapa lampu senter harus diisi baterai?",
+      "answer": "Kalau diisi bensin nanti dikira genset mini",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_359",
+      "question": "Daun apa yang paling sering dicari calon sarjana?",
+      "answer": "Daun-tor skripsi disetujui dosen",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_360",
+      "question": "Ikan apa yang gak pernah kesepian di laut?",
+      "answer": "Ikan tongkol-ongan teman sekelas",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_361",
+      "question": "Kenapa orang kalau mancing ikan harus sabar?",
+      "answer": "Kalau buru-buru namanya nyerok ikan di kolam tetangga",
+      "category": "Humor",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_362",
+      "question": "Celana apa yang bikin orang selalu ingat rumah?",
+      "answer": "Celana-jutnya pulang ke pelukan keluarga",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_363",
+      "question": "Hewan apa yang paling jago main karambol?",
+      "answer": "Semut jepang nyentil bidak",
+      "category": "Tebak-tebakan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_364",
+      "question": "Kenapa pintu kulkas ditutup bunyinya celeguk?",
+      "answer": "Biar es batunya gak kabur keluar cari udara segar",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_365",
+      "question": "Kue apa yang gak pernah bikin orang bosan?",
+      "answer": "Kue-rindu canda tawa bapak",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_366",
+      "question": "Ban apa yang paling sering diundang ke resepsi pernikahan?",
+      "answer": "Ban-d pengiring lagu campursari",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_367",
+      "question": "Kenapa kasur kapuk kalau dijemur harus dipukul-pukul?",
+      "answer": "Buat bangunin debu yang lagi tidur siang",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_368",
+      "question": "Bunga apa yang paling sering dicari anak kos pas lapar?",
+      "answer": "Bunga-bungan nasi sisa semalam",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_369",
+      "question": "Hewan apa yang paling sering nawarin bantuan?",
+      "answer": "Kera-la bantuan bapak seikhlasnya",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_370",
+      "question": "Kenapa helm bapak-bapak sering lecet bagian atasnya?",
+      "answer": "Kebanyakan kena ranting pohon mangga tetangga",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_371",
+      "question": "Gelas apa yang paling bikin tegang di jalan?",
+      "answer": "Gelas-an knalpot brong ditilang polisi",
+      "category": "Pelesetan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_372",
+      "question": "Kura-kura apa yang paling suka nongkrong di teras sore hari?",
+      "answer": "Kura-kurang kopi dan pisang goreng",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_373",
+      "question": "Kenapa kalau makan bubur ayam gak boleh pakai sumpit?",
+      "answer": "Soalnya buburnya bukan mie ayam, kasihan capek nyumpitnya",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_374",
+      "question": "Bebek apa yang paling sering dipanggil polisi lalu lintas?",
+      "answer": "Bebek-el sim dan stnk ketinggalan",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_375",
+      "question": "Daun apa yang bunyinya paling keras di jalan raya?",
+      "answer": "Daun-tor motor knalpot racing",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_376",
+      "question": "Kenapa cat tembok warnanya putih paling laris?",
+      "answer": "Kalau warna-warni nanti rumahnya dikira permen lolipop",
+      "category": "Humor",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_377",
+      "question": "Sepatu apa yang paling disukai waktu kumpul bareng teman?",
+      "answer": "Sepatu-karan cerita lucu masa lalu",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_378",
+      "question": "Hewan apa yang paling sering ikut upacara bendera?",
+      "answer": "Burung dara-h juang kemerdekaan",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_379",
+      "question": "Kenapa remote AC selalu dicari pas cuaca panas?",
+      "answer": "Kalau pas dingin dicarinya selimut tetangga",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_380",
+      "question": "Jas apa yang paling sering dibawa pas sarapan pagi?",
+      "answer": "Jas-teh manis hangat celup",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_381",
+      "question": "Makanan apa yang paling sering bikin orang terkejut?",
+      "answer": "Tempe-leng (Ditempeleng) tiba-tiba",
+      "category": "Pelesetan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_382",
+      "question": "Kenapa kalau naik sepeda ontel kakinya harus ngayuh?",
+      "answer": "Soalnya kalau didorong terus capek yang di belakang",
+      "category": "Humor",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_383",
+      "question": "Kucing apa yang paling sering bikin kagum penonton?",
+      "answer": "Kucing-kap trik sulap kartu",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_384",
+      "question": "Minuman apa yang paling bijaksana di dunia?",
+      "answer": "Air mineral-kan hati yang gelisah",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_385",
+      "question": "Kenapa kompor gas bunyinya 'cess' pas dinyalain?",
+      "answer": "Soalnya kalau bunyinya 'dor' yang masak langsung kabur",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_386",
+      "question": "Ular apa yang paling sering dibeli di toko material?",
+      "answer": "Ular-an kawat jemuran baju",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_387",
+      "question": "Bel apa yang bunyinya paling merdu di telinga karyawan?",
+      "answer": "Bel-um tanggal tua tapi bonus udah masuk",
+      "category": "Pelesetan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_388",
+      "question": "Kenapa pohon pisang kalau berbuah cuma sekali seumur hidup?",
+      "answer": "Karena kalau berkali-kali nanti dikira langganan kredit",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_389",
+      "question": "Sapi apa yang paling sering dicari waktu mau tidur?",
+      "answer": "Sapi-kiran tenang bebas beban",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_390",
+      "question": "Kota apa yang warganya paling suka bersyukur?",
+      "answer": "Cila-cap syukur atas nikmat hari ini",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_391",
+      "question": "Hewan apa yang paling patuh sama rambu lalu lintas?",
+      "answer": "Zebra, selalu lewat di zebra cross",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_392",
+      "question": "Kenapa pohon kelapa di pinggir pantai meliuk-liuk?",
+      "answer": "Soalnya lagi dengerin suara deburan ombak sambil santai",
+      "category": "Humor",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_393",
+      "question": "Piring apa yang paling suka bikin kaget?",
+      "answer": "Piring-atan dini tsunami",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_394",
+      "question": "Burung apa yang paling sering dicari kasir toko?",
+      "answer": "Burung kem-balian seratus perak",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_395",
+      "question": "Kenapa Superman celana dalamnya di luar?",
+      "answer": "Soalnya kalau dijemur di dalem gak kering-kering",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_396",
+      "question": "Ikan apa yang paling sering mampir ke warung kopi?",
+      "answer": "Ikan gurame-rame nongkrong",
+      "category": "Pelesetan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_397",
+      "question": "Benda apa yang kalau dibersihkan makin hitam?",
+      "answer": "Papan tulis kapur",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_398",
+      "question": "Kenapa anak kecil kalau nangis suka manggil mama bukan bapak?",
+      "answer": "Karena kalau manggil bapak nanti disuruh beli kopi",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_399",
+      "question": "Kopi apa yang paling dingin sedunia?",
+      "answer": "Kopi-jak es batu di kutub",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_400",
+      "question": "Hewan apa yang kalau jalan kepalanya nunduk terus?",
+      "answer": "Kutu rambut yang lagi sungkem",
+      "category": "Tebak-tebakan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_401",
+      "question": "Kenapa spion truk ukurannya gede banget?",
+      "answer": "Biar gak kalah gede sama dompet tanggal muda",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_402",
+      "question": "Sayur apa yang paling taat beribadah?",
+      "answer": "Sayur lodeh-pan sajadah",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_403",
+      "question": "Buah apa yang paling sabar menghadapi hidup?",
+      "answer": "Buah pir-hatin",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_404",
+      "question": "Kenapa dalang wayang kalau pentas duduknya sila?",
+      "answer": "Kalau sambil push up penontonnya ikutan capek",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_405",
+      "question": "Bebek apa yang paling setia nungguin pacar?",
+      "answer": "Bebek-ing cinta sejati",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_406",
+      "question": "Bantal apa yang paling ditakuti orang penakut?",
+      "answer": "Bantal-an kain pocong",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_407",
+      "question": "Kenapa ban kereta api warnanya hitam dan terbuat dari besi?",
+      "answer": "Kalau dari permen karet nanti nempel di rel",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_408",
+      "question": "Kipas apa yang bikin kantong tebal?",
+      "answer": "Kipas-tian transfer gaji",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_409",
+      "question": "Hewan apa yang paling suka baca komik?",
+      "answer": "Ulat komik (ulat buku)",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_410",
+      "question": "Kenapa cicak di dinding gak pernah jatuh ke kasur?",
+      "answer": "Soalnya cicak tahu bapak lagi tidur capek",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_411",
+      "question": "Singa apa yang paling disukai waktu cuaca dingin?",
+      "answer": "Singa-ngkringan wedang jahe",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_412",
+      "question": "Jas apa yang paling wangi baunya?",
+      "answer": "Jas-mine (bunga melati)",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_413",
+      "question": "Kenapa tukang tambal ban selalu sedia baskom isi air?",
+      "answer": "Kalau isi es sirup nanti diminum pengendara",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_414",
+      "question": "Roti apa yang bisa nyetir mobil balap?",
+      "answer": "Roti buaya darat sirkuit",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_415",
+      "question": "Gajah apa yang paling jago matematika?",
+      "answer": "Gajah-mada kuliah statistik",
+      "category": "Tebak-tebakan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_416",
+      "question": "Kenapa kasur busa empuk banget pas ditiduri?",
+      "answer": "Karena gak punya beban pikiran cicilan",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_417",
+      "question": "Daun apa yang paling sering bikin orang girang?",
+      "answer": "Daun-load film gratisan",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_418",
+      "question": "Mobil apa yang jalannya paling sopan di perempatan?",
+      "answer": "Mobil taat rambu-rambu",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_419",
+      "question": "Kenapa tukang sol sepatu bawa jarum sama benang sol?",
+      "answer": "Kalau bawa pancingan nanti ikannya nyangkut di sepatu",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_420",
+      "question": "Lem apa yang paling bikin tenang di hati?",
+      "answer": "Lem-baran uang tabungan",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_421",
+      "question": "Tomat apa yang bunyinya paling kencang?",
+      "answer": "Tomat-uk beduk maghrib",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_422",
+      "question": "Kenapa pintu rumah selalu ada pegangannya?",
+      "answer": "Kalau ada hatinya nanti gampang baper",
+      "category": "Humor",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_423",
+      "question": "Hewan apa yang suka ikut lomba lari maraton?",
+      "answer": "Kura-kura ninja kejar target",
+      "category": "Tebak-tebakan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_424",
+      "question": "Minuman apa yang bikin orang selalu bersyukur?",
+      "answer": "Teh-rimakasih tuhan",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_425",
+      "question": "Kenapa sendal swallow legendaris banget?",
+      "answer": "Karena kalau ditukar di masjid gak ketahuan",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_426",
+      "question": "Cacing apa yang paling dicintai bapak-bapak?",
+      "answer": "Cacing-ta istri di rumah",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_427",
+      "question": "Kunci apa yang paling bikin orang lapar pas malam hari?",
+      "answer": "Kunci-pan kuah soto ayam",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_428",
+      "question": "Kenapa lampu taman kalau malam menyala sendiri?",
+      "answer": "Soalnya kalau siang dia tidur siang",
+      "category": "Humor",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_429",
+      "question": "Burung apa yang paling gemar gotong royong?",
+      "answer": "Burung dara-ma bhakti masyarakat",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_430",
+      "question": "Jam apa yang paling disenangi waktu jam kerja?",
+      "answer": "Jam istirahat makan siang",
+      "category": "Tebak-tebakan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_431",
+      "question": "Kenapa bebek kalau jalan kepalanya suka manggut-manggut?",
+      "answer": "Lagi dengerin lagu koplo di playlist",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_432",
+      "question": "Ban apa yang bisa bikin hati tenang dan damai?",
+      "answer": "Ban-tuan sembako datang",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_433",
+      "question": "Hewan apa yang paling suka jaga pos ronda?",
+      "answer": "Nyamuk malam, keliling sampai subuh",
+      "category": "Tebak-tebakan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_434",
+      "question": "Kenapa kalau naik lift ada cerminnya?",
+      "answer": "Biar bapak bisa benerin kerah baju",
+      "category": "Humor",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_435",
+      "question": "Soto apa yang paling sering dibaca saat ujian?",
+      "answer": "Soto-fotokopi rangkuman bab",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_436",
+      "question": "Kue apa yang paling suka menyapa orang pagi-pagi?",
+      "answer": "Kue cucur salam hangat",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_437",
+      "question": "Kenapa kalau potong rambut harus pakai gunting?",
+      "answer": "Kalau pakai golok nanti disangka mau buka kelapa",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_438",
+      "question": "Ikan apa yang paling sering disapa teman lama?",
+      "answer": "Ikan lele, hal-lele kawan!",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_439",
+      "question": "Mangga apa yang paling ditunggu pas tanggal satu?",
+      "answer": "Mangga-jih bulanan masuk rekening",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_440",
+      "question": "Kenapa remote AC selalu dicari pas gerah?",
+      "answer": "Kalau nyari remote tv nanti kepanasan sambil nonton",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_441",
+      "question": "Ular apa yang paling suka nongkrong di warung kopi?",
+      "answer": "Ular-ing obrolan masa lalu",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_442",
+      "question": "Hewan apa yang gak pernah punya musuh di hutan?",
+      "answer": "Semut gotong royong, temannya ribuan",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_443",
+      "question": "Kenapa kalau naik becak abangnya genjot di belakang?",
+      "answer": "Kalau di depan nanti abangnya gak lihat jalan ketutup penumpang",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_444",
+      "question": "Bedak apa yang paling disukai waktu dompet tipis?",
+      "answer": "Bedak-at rezeki tak terduga",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_445",
+      "question": "Burung apa yang paling pinter masak nasi goreng?",
+      "answer": "Burung kutilang bumbu racik",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_446",
+      "question": "Kenapa ayam petelur gak pernah sekolah tinggi?",
+      "answer": "Soalnya fokus bikin sarapan buat manusia",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_447",
+      "question": "Ember apa yang paling suka menyemangati orang?",
+      "answer": "Ember-ani hadapi hari esok",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_448",
+      "question": "Kereta apa yang paling wangi baunya?",
+      "answer": "Kereta-pian parfum kasturi",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_449",
+      "question": "Kenapa helm motor wajib pakai kaca bening?",
+      "answer": "Biar lalat gak langsung masuk silaturahmi ke mata",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_450",
+      "question": "Gelas apa yang paling bikin rindu keluarga?",
+      "answer": "Gelas kopi buatan istri tercinta",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_451",
+      "question": "Sapi apa yang suka main musik akustik?",
+      "answer": "Sapi-kustikan santai di teras",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_452",
+      "question": "Kenapa kalau mau nyebrang jalan harus tengok kanan-kiri?",
+      "answer": "Kalau tengok masa lalu nanti baper di tengah jalan",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_453",
+      "question": "Celana apa yang paling enak dipakai pas sarapan?",
+      "answer": "Celana-pan telur mata sapi",
+      "category": "Pelesetan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_454",
+      "question": "Daun apa yang paling disukai waktu cuaca panas terik?",
+      "answer": "Daun-lot es kelapa muda dingin",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_455",
+      "question": "Kenapa roda sepeda ada ruji-rujinya?",
+      "answer": "Kalau ada gordennya nanti dikira jendela kamar",
+      "category": "Humor",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_456",
+      "question": "Hewan apa yang paling hemat uang jajan?",
+      "answer": "Unta, minum sekali tahan seminggu",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_457",
+      "question": "Kopi apa yang paling sering bikin kagum orang?",
+      "answer": "Kopi-ntaran anak di sekolah",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_458",
+      "question": "Kenapa kalau hujan kaca mobil suka berembun?",
+      "answer": "Karena mobilnya ikut sedih lihat jalanan macet",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_459",
+      "question": "Truk apa yang paling disukai anak sekolah?",
+      "answer": "Truk-tur liburan semester ke kebun binatang",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_460",
+      "question": "Bunga apa yang paling bikin tetangga iri?",
+      "answer": "Bunga tabungan ratusan juta",
+      "category": "Tebak-tebakan",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_461",
+      "question": "Kenapa dispenser ada tombol merah sama biru?",
+      "answer": "Kalau tombol merah putih nanti upacara bendera",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_462",
+      "question": "Bebek apa yang paling gemar baca koran pagi?",
+      "answer": "Bebek wawasan luas",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_463",
+      "question": "Sepatu apa yang paling disukai tukang parkir?",
+      "answer": "Sepatu-buh uang dua ribuan",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_464",
+      "question": "Kenapa kalau mancing ikan di kolam pakai umpan cacing?",
+      "answer": "Kalau dikasih pizza ikannya gak paham menu barat",
+      "category": "Humor",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_465",
+      "question": "Singa apa yang paling disukai orang desa?",
+      "answer": "Singa-mbangan hidup rukun warga",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_466",
+      "question": "Jam apa yang bunyinya paling renyah?",
+      "answer": "Jam-ur tiram goreng krispi",
+      "category": "Pelesetan",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_467",
+      "question": "Kenapa bapak-bapak kalau potong kuku jempol kakinya suka ditarik ke atas?",
+      "answer": "Biar gak melesat kena kaca lemari",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_468",
+      "question": "Hewan apa yang paling suka nongkrong di halte bus?",
+      "answer": "Kucing nunggu bus transpor kota",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_469",
+      "question": "Sayur apa yang paling sering bikin orang rukun?",
+      "answer": "Sayur sop-an santun di lingkungan",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_470",
+      "question": "Kenapa kucing suka ngejar ekornya sendiri?",
+      "answer": "Lagi cari hiburan murah meriah tanpa kuota",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_471",
+      "question": "Ban apa yang paling sering dicari di pasar tradisional?",
+      "answer": "Ban-wang merah sama bawang putih",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_472",
+      "question": "Kura-kura apa yang paling cepat datang pas dipanggil?",
+      "answer": "Kura-kurir paket ekspres",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_473",
+      "question": "Kenapa kasur lantai enak banget buat rebahan siang?",
+      "answer": "Karena makin deket bumi gravitasi makin nyaman",
+      "category": "Humor",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_474",
+      "question": "Ular apa yang paling disukai anak-anak komplek?",
+      "answer": "Ular naga panjangnya bukan kepalang",
+      "category": "Tebak-tebakan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_475",
+      "question": "Minuman apa yang paling sabar dan gak pernah marah?",
+      "answer": "Air te-nah menghadapi cobaan",
+      "category": "Pelesetan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_476",
+      "question": "Kenapa setrikaan baju bawahnya licin dan rata?",
+      "answer": "Kalau bergerigi nanti jadi parutan kelapa",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_477",
+      "question": "Bel apa yang paling bikin hati senang pas malam takbiran?",
+      "answer": "Bel-i baju baru lebaran",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_478",
+      "question": "Burung apa yang paling hobi nyalain radio pagi?",
+      "answer": "Burung kenari lagu nostalgia",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_479",
+      "question": "Kenapa martabak manis dipotong kotak-kotak?",
+      "answer": "Kalau dipotong segitiga nanti jadi martabak pizza",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_480",
+      "question": "Ikan apa yang paling suka belajar tata krama?",
+      "answer": "Ikan ba-wal santun pada sesama",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_481",
+      "question": "Kipas apa yang bunyinya paling bikin tenang?",
+      "answer": "Kipas-ang semilir angin sore di pos ronda",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_482",
+      "question": "Kenapa kalau tukang bakso mukul mangkok bunyinya 'ting-ting'?",
+      "answer": "Kalau bunyinya 'dor-dor' nanti dikira satpam nembak maling",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_483",
+      "question": "Mobil apa yang selalu membawa kebahagiaan keluarga?",
+      "answer": "Mobil-ang sayang tiap hari",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_484",
+      "question": "Cacing apa yang paling dicari nelayan di pantai?",
+      "answer": "Cacing umpan ikan kakap merah",
+      "category": "Tebak-tebakan",
+      "mood": "Santai",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_485",
+      "question": "Kenapa kalau tidur bantal ditaruh di bawah kepala?",
+      "answer": "Kalau ditaruh di bawah jempol kaki nanti kepalanya bingung",
+      "category": "Humor",
+      "mood": "Lucu",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_486",
+      "question": "Tomat apa yang paling setia mendampingi makan siang?",
+      "answer": "Tomat-or sambal terasi ulek",
+      "category": "Pelesetan",
+      "mood": "Cengengesan",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_487",
+      "question": "Roti apa yang paling disukai waktu main layangan?",
+      "answer": "Roti gulung-an benang gelasan",
+      "category": "Pelesetan",
+      "mood": "Nyengir",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_488",
+      "question": "Kenapa klakson motor bunyinya 'tin-tin'?",
+      "answer": "Kalau bunyinya 'halo-halo' nanti disangka mau nawarin kartu kredit",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_489",
+      "question": "Gajah apa yang paling rajin bersih-bersih rumah?",
+      "answer": "Gajah-puan sapu halaman depan",
+      "category": "Pelesetan",
+      "mood": "Senyum",
+      "image_url": null,
+      "url": null
+    },
+    {
+      "id": "q_490",
+      "question": "Kenapa bapak-bapak kalau ngopi suka ditemani pisang goreng?",
+      "answer": "Karena kalau ditemani kenangan masa lalu kopinya jadi pahit",
+      "category": "Humor",
+      "mood": "Tertawa",
+      "image_url": null,
+      "url": null
+    }
+  ]
+}
