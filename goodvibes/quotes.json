@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T23:23:13+07:00",
+  "generated_at": "2026-10-01T23:30:29+07:00",
   "settings": {
     "ads_enable": false,
-    "ads_open_unit": "ca-app-pub-3940256099942544/9257395921",
-    "ads_banner_unit": "ca-app-pub-3940256099942544/6300978111",
-    "ads_reward_unit": "ca-app-pub-3940256099942544/5224354917",
+    "ads_open_unit": "ca-app-pub-7366078751976453/1616866745",
+    "ads_banner_unit": "ca-app-pub-7366078751976453/7393354917",
+    "ads_reward_unit": "ca-app-pub-7366078751976453/3665862897",
     "initial_daily_quota": 5,
     "reward_quota_amount": 10,
     "privacy_policy_url": "https://mationetic.com/apps/privacy-policy",
