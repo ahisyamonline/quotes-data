@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T23:32:25+07:00",
+  "generated_at": "2026-10-04T22:29:22+07:00",
   "settings": {
-    "ads_enable": false,
+    "ads_enable": true,
     "ads_open_unit": "ca-app-pub-7366078751976453/4767191573",
     "ads_banner_unit": "ca-app-pub-7366078751976453/7393354917",
     "ads_reward_unit": "ca-app-pub-7366078751976453/3665862897",
